@@ -1,0 +1,61 @@
+Data Dictionary ,,,
+,,,
+Field Name,Field Description,Field Values,
+Description,Type/category of the organisation unit / service,Description,Category
+,,Baby Sitting Agencies,Child Care
+,,Child Care Centres,Child Care
+,,Family Day Care Schemes,Child Care
+,,Integrated Centres,Child Care/Preschool
+,,Early Childhood Development Centres,Child Care/Preschool
+,,Learning Together @ Home,Child Care
+,,Occasional Care,Child Care
+,,Other Children's Services,Child Care
+,,Out of School Hours Care,Child Care
+,,Rural Care Program,Child Care
+,,Playcentres,Preschool
+,,Preschools,Preschool
+,,Primary Education,School
+,,Primary/Secondary Combined,School
+,,Secondary Education,School
+,,Special Education,School
+,,Ethnic Schools Organisations,Ethnic Schools Authorities
+,,Specialist Facilities,Non School/Service Unit
+,,Support Services,Non School/Service Unit
+,,Tertiary Organisations,Tertiary Institution
+,,Other,Other
+Organisation Unit Name,Official name of the organisation unit,Text,
+Organisation Unit Number,Idenitification number allocated to organisation units in departmental information systems.,Text,
+,Beware of leading zeros if translating to an Integer field.,Format:,
+,,0,
+Address 1 Formatted Postal,Postal address,Text,
+Address 2 Formatted Physical,Physical address,Text,
+,,,
+Phone,Contact telephone number,Text,
+,,,
+Fax,Contact facsimile number,Text,
+,,,
+Contact,Name of Principal/Director or other official contact person,Text,
+,,,
+Region code,Operational region that the site/service is located within.  Relates to SA Government Regions as outlined here:,Text,
+,"http://www.sa.gov.au/subject/Housing,+property+and+land/Building+and+development/South+Australia%27s+land+supply+and+planning+system/South+Australian+Government+regions#The_12_regions ",Values:,
+,,Code Name,
+,,01 Eastern Adelaide,
+,,02 Northern Adelaide,
+,,03 Southern Adelaide,
+,,04 Western Adelaide,
+,,05 Adelaide Hills,
+,,06 Barossa,
+,,07 Fleurieu and Kangaroo Island,
+,,08 Eyre and Western,
+,,09 Far North,
+,,10 Limestone Coast,
+,,11 Murray and Mallee,
+,,12 Yorke and Mid North,
+,,99 Not Allocated,
+Language,Relates to Ethnic Schools only.  Language of the Ethnic  School.,Text,
+,,,
+,,,
+,,,
+Background,,,
+"The Department for Education and Child Development publishes “Sites & Services” annually,  a directory listing contact details for all South Australian Families SA, education, and children's services sites. The book is published with data updated as at March/April each year, and is available for purchase in hard copy or downloadable in pdf format. While all care is taken by the editors of the directory to verify information, the Department cannot be held responsible for incorrect or outdated detail.",,,
+"The Department also has a searchable online database of education sites and services in South Australia, which is updated nightly based on the most recent details provided by the site/service.",,,
