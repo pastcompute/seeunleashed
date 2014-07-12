@@ -18,7 +18,7 @@ select
     GeomFromEWKT('SRID=4326; point('||lon||' '||lat||')') as geom
 from
     schools_raw;
-select count(*) from schools
+select count(*) from schools;
 grant all privileges on table schools to seeu;
 ;
 EOF

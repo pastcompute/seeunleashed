@@ -1,4 +1,39 @@
+// --------------------------------------------------------------------------
+// This is a sandbox used by the YUI toolkit
+// --------------------------------------------------------------------------
+YUI().use('node', 'event', function (Y) {
+    // The Node and Event modules are loaded and ready to use.
+});
+
+YUI().use('datasource', function (Y) {
+    // DataSource is available and ready for use
+    var myDataSource = new Y.DataSource.Get({
+        source: "http://localhost/seeu/ws_schools.psp?"
+    });
+    myDataSource.plug({fn: Y.Plugin.DataSourceJSONSchema, cfg: {
+        schema: {
+            resultListLocator: "Result",
+            resultFields: ["Name"]
+        }
+    }});
+    myDataSource.sendRequest({
+        request: "",
+        on: {
+            success: function(e){
+                alert(e.response);
+            },
+            failure: function(e){
+                alert(e.error.message);
+            }
+        }
+    });
+});
+
+// --------------------------------------------------------------------------
+// Code required by leaflet for the Mapping visuals
+// --------------------------------------------------------------------------
 var map;
+// This function sets up the map display
 function initmap() {
 	map = new L.Map("the-map");
 
@@ -36,8 +71,11 @@ function initmap() {
 	map.on('click', onMapClick);
 }
 
+// This loads the map at start.
+// TODO - work out how to turn on and off from the Python code
 function onloadHandler()
 {
 	initmap();
 }
+
 

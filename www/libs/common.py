@@ -1,27 +1,23 @@
-pageTitle = "Schools Environment Explorer"
+pageTitle = "Schools Environment Explorer."
 startLat = -34.929
 startLon = 138.612
 
 import psycopg2
 
 def dbTestConnection():
-  conn = psycopg2.connect("dbname=seeudb user==see password=seeme")
+  conn = psycopg2.connect(database="seeudb", user="seeu", password="seeme", host="localhost")
+  cur = conn.cursor()
 
-# Open a cursor to perform database operations
->>> cur = conn.cursor()
+  # Query the database and obtain data as Python objects
+  cur.execute("select name from schools")
+  return cur.fetchone()[0]
 
-# Execute a command: this creates a new table
->>> cur.execute("CREATE TABLE test (id serial PRIMARY KEY, num integer, data varchar);")
+def dbGetSchoolsNames():
+  conn = psycopg2.connect(database="seeudb", user="seeu", password="seeme", host="localhost")
 
-# Pass data to fill a query placeholders and let Psycopg perform
-# the correct conversion (no more SQL injections!)
->>> cur.execute("INSERT INTO test (num, data) VALUES (%s, %s)",
-...      (100, "abc'def"))
+  # Download the rows under our control
+  cur = conn.cursor()
+  cur.execute("select name from schools")
 
-# Query the database and obtain data as Python objects
->>> cur.execute("SELECT * FROM test;")
->>> cur.fetchone()
-(1, 100, "abc'def")
-
-# Make the changes to the database persistent
->>> conn.commit()
+  # This is a little tedious, I haven't had time to find the 'proper' way
+  return [x[0] for x in cur.fetchall()]

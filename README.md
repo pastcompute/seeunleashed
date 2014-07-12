@@ -1,11 +1,21 @@
 seeunleashed
 ============
 
+Licenses of mashed up software:
+
+YUI - https://yuilibrary.com/ - BSD License
+leaflet - http://leafletjs.com/ - a generic BSD-like open license - redistribution permitted with retention of notice
+
+Licenses of data:
+
+* zerowaste SA recycle locations from data.sa.gov.au
+* school locations derived from xxx.PDF from www.sa.gov.au with CC License at bottom of page 
+
 To use on a ubuntu system e.g. a micro AWS instance:
 
 ```
 sudo apt-get update
-sudo apt-get install postgresql-9.3-postgis-2.1 apache2 git vim php5 unzip libapache2-mod-python pgadmin3
+sudo apt-get install postgresql-9.3-postgis-2.1 apache2 git vim php5 unzip libapache2-mod-python pgadmin3 python-psycopg2
 ```
 
 Configure Apache as per http://webpython.codepoint.net/mod_python_psp_apache_configuration.
@@ -23,6 +33,7 @@ PythonHandler mod_python.publisher | .py
 AddHandler mod_python .psp .psp_
 PythonHandler mod_python.psp | .psp .psp_
 PythonDebug On
+PythonAutoReload On
 PythonPath "sys.path+['/var/www/html/seeu/libs']"
 </Directory>
 ```
@@ -63,3 +74,5 @@ sudo su postgres -c bash
 import_schools.sh
 import_recyclers.sh
 
+
+Some important notes on Python PSP at http://helpful.knobs-dials.com/index.php/Mod_python_notes#mod_python_and_importing
