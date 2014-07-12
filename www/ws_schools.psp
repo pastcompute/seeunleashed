@@ -1,7 +1,8 @@
 <%
-# Web service that gets all the school names
+# Web service that gets all the school names and an identifier key
+# This is used to build the drop down list of schools for the child to choose from
 from common import *
-data = dbGetSchoolsNames()
-req.write("\n".join([str(school) for school in data]))
+data = dbGetSchoolsRows()
+req.write("\n".join(["%s,%s %s %s" % (row[0], str(row[1]), str(row[2]), str(row[3])) for row in data]))
 %>
 

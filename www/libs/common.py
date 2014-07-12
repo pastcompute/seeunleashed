@@ -19,5 +19,15 @@ def dbGetSchoolsNames():
   cur = conn.cursor()
   cur.execute("select name from schools")
 
-  # This is a little tedious, I haven't had time to find the 'proper' way
+  # This is a little tedious, I haven't had time to find the 'proper' way 
   return [x[0] for x in cur.fetchall()]
+
+def dbGetSchoolsRows():
+  conn = psycopg2.connect(database="seeudb", user="seeu", password="seeme", host="localhost")
+
+  # Download the rows under our control
+  cur = conn.cursor()
+  cur.execute("select * from schools")
+
+  # This is a little tedious, I haven't had time to find the 'proper' way 
+  return cur.fetchall()

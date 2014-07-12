@@ -1,23 +1,35 @@
 // --------------------------------------------------------------------------
-// This is a sandbox used by the YUI toolkit
+// This code executes after YUI event, button are loaded 
+// We can prepare our form there
 // --------------------------------------------------------------------------
 YUI().use('node', 'event', 'button', function (Y) {
-    // The Node and Event modules are loaded and ready to use.
+  // The Node and Event modules are loaded and ready to use.
 	var oSubmitButton1 = new Y.one('input[name="ask_school"]');
-//, { value: "submitbutton1value" }); 
 	var formId = "form1", form = Y.one("#"+formId), uri = form.get('action'), method = form.get('method');
 	form.on('submit', function(e) {
     form1.submit();
 	})
 });
 
-
-YUI().use('autocomplete', 'autocomplete-filters', 'autocomplete-highlighters', function (Y) {
-  var states = myPyGlobal;
-  Y.one('#ac-input').plug(Y.Plugin.AutoComplete, {
-    resultFilters    : 'phraseMatch',
+// --------------------------------------------------------------------------
+// This code executes after YUI autocomplete code is loaded 
+// We can prepare our autocomplete
+// --------------------------------------------------------------------------
+YUI().use('autocomplete', 'autocomplete-highlighters', function (Y) {
+  Y.one('#ac-input').plug( Y.Plugin.AutoComplete, {
     resultHighlighter: 'phraseMatch',
-    source           : states
+    resultTextLocator: 'name',
+    resultTypeList: false,
+    source           : 'http://localhost/seeu/ws_schools_json.psp',
+    on : {
+      select : function(e) {
+        alert(e);
+//        alert(arguments[2].id);
+//        var myAC = aArgs[0]; // reference back to the AC instance 
+//        var elLI = aArgs[1]; // reference to the selected LI element 
+//        var oData = aArgs[2]; // object literal of selected item's result data 
+	// somehow get it and save to form hidden variable         
+    }}
   });
 });
 
@@ -63,8 +75,10 @@ function initmap() {
 	map.on('click', onMapClick);
 }
 
+// --------------------------------------------------------------------------
 // This loads the map at start.
 // TODO - work out how to turn on and off from the Python code
+// --------------------------------------------------------------------------
 function onloadHandler()
 {
 	initmap();

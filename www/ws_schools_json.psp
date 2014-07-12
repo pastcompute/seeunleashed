@@ -1,0 +1,18 @@
+<%
+# Web service that gets all the school names and an identifier key
+# This is used to build the drop down list of schools for the child to choose from
+from common import *
+import json
+
+data = dbGetSchoolsRows()
+
+# Translate into a dictionary in the form we require and let python json do the work
+schools = []
+for row in data:
+  name = "%s, %s %s" % (str(row[1]), str(row[2]), str(row[3]) )
+  schools += [{ "id" : row[0], "name" : name }]
+
+# result = { "schools" : schools  }
+
+%>
+<%= json.dumps(schools) %>

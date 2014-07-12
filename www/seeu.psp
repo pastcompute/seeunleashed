@@ -15,10 +15,10 @@ from common import *
 <!-- We are using YUI toolkit which is an open source web tool  -->
 <script src="http://yui.yahooapis.com/3.17.2/build/yui/yui-min.js"></script>
 
-<!-- This is a hack to set the YUI static datasource from a python server side query output
-     because I hadnt managed to get JSON API working -->
+<!-- This is a hack to set the some javascript variables from a python server side query output
+     when we dont want to use AJAX -->
+
 <script>
-var myPyGlobal = [ <%= ",".join(["\"%s\"" % str(school) for school in dbGetSchoolsNames()]) %>];
 var myPyLat = -34.929 // %= dbGetSchoolLatFromSchool(form['school')
 var myPyLon =  138.6010
 var myPySchoolName = "xxx"
