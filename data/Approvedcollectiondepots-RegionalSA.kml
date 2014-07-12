@@ -1,0 +1,1834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Approved collection depots - Regional SA</name>
+  <description><![CDATA[Approved collection depots in regional areas for the return of refund-bearing drink containers sold in South Australia.
+
+The information provided is is licensed under a Creative Commons Attribution 3.0 Australia License .]]></description>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style61">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style76">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style63">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style39">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style47">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style82">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style38">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style58">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style28">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style56">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style50">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style81">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style70">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style32">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style66">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style31">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style71">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style36">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style42">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style52">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style51">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style46">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style79">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style65">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style60">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style29">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style80">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style77">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style35">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style37">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style78">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style62">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style67">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style75">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style53">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style44">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style74">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style64">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style26">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style45">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style55">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style68">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style33">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style49">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style43">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style34">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style72">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style57">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style59">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style41">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style48">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style30">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style73">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style27">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style84">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style54">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style69">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style83">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="style40">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+      </Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+  <Placemark>
+    <name>SM &amp; TJ Lange</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">22-24 Newcastle Street
+<br>ANGASTON SA 5353 </div>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>139.049042,-34.498592,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Andamooka Collection Depot</name>
+    <description><![CDATA[<div dir="ltr">Lot 408 Government Road ANDAMOOKA SA 5722<br>&nbsp;</div>]]></description>
+    <styleUrl>#style61</styleUrl>
+    <Point>
+      <coordinates>137.165894,-30.450247,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>YP Recycling Ardrossan</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">28 Coast Road <br>ARDROSSAN SA 5571</div>]]></description>
+    <styleUrl>#style76</styleUrl>
+    <Point>
+      <coordinates>137.914322,-34.412937,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Arno Bay Receival Centre</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Lot 52, Alexandria Avenue<br>ARNO BAY SA 5603</div>]]></description>
+    <styleUrl>#style63</styleUrl>
+    <Point>
+      <coordinates>136.565994,-33.908249,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wakefield Plains Recycling</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">20 Railway Terrace<br>BALAKLAVA SA 5461 </div>]]></description>
+    <styleUrl>#style39</styleUrl>
+    <Point>
+      <coordinates>138.418045,-34.144024,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Balhannah Salvage &amp; Trading</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">87 Main Road&nbsp;<br>BALHANNAH SA 5242 </div>]]></description>
+    <styleUrl>#style47</styleUrl>
+    <Point>
+      <coordinates>138.826614,-34.990082,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Barmera Recycling</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">4 Anderson Street
+<br>BARMERA SA 5345 </div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>140.467865,-34.257004,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Beachport Depot</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">6 Railway Terrace
+<br>BEACHPORT SA 5280 </div>]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>140.014069,-37.481434,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Riverland Bottle Depot</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">18 Verral Crescent
+<br>BERRI SA 5343 </div>]]></description>
+    <styleUrl>#style82</styleUrl>
+    <Point>
+      <coordinates>140.601868,-34.269718,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Blanchetown Recycling Centre</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Lot 510 Merrivale Road
+<br>BLANCHETOWN SA 5357 </div>]]></description>
+    <styleUrl>#style38</styleUrl>
+    <Point>
+      <coordinates>139.610352,-34.357662,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Blinman</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Alpana Station Blk69 Hd carr <br>BLINMAN SA 5730</div>]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>138.684723,-31.139994,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bordertown Recycling Depot</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Brown Terrace</div>
+<div dir="ltr">BORDERTOWN SA 5268 </div>
+<div dir="ltr"><a href="http://www.bordertownrecycling.com.au/" target="_blank">http://www.bordertownrecycling.com.au/</a>&nbsp;</div>]]></description>
+    <styleUrl>#style58</styleUrl>
+    <Point>
+      <coordinates>140.780670,-36.313408,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bowhill General Store</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Lot 50 Chucka Bend Road
+<br>BOWHILL SA 5238 </div>]]></description>
+    <styleUrl>#style28</styleUrl>
+    <Point>
+      <coordinates>139.622711,-34.884922,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Burra Recycling Centre</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Quarry Street
+<br>BURRA SA 5417 </div>]]></description>
+    <styleUrl>#style56</styleUrl>
+    <Point>
+      <coordinates>138.944168,-33.681217,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Fleurieu Recycling</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">87 Flinders Drive
+<br>CAPE JERVIS SA 5204 </div>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>138.109573,-35.604298,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Greenbottles Recycling</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">
+<p><span style="color:blue;font-size:12pt">133 Wilmington Road,</span></p>
+<p><span style="color:blue;font-size:12pt">CARRIETON SA 5432</span></p></div>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>138.514084,-32.434162,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ceduna Can &amp; Bottle Depot</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">1A Collins Street
+<br>CEDUNA SA 5690 </div>]]></description>
+    <styleUrl>#style50</styleUrl>
+    <Point>
+      <coordinates>133.685669,-32.122910,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Clare Recycling Depot</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">9 Archer Place<br>CLARE SA 5453 </div>]]></description>
+    <styleUrl>#style81</styleUrl>
+    <Point>
+      <coordinates>138.617874,-33.836285,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cleve &amp; Arno Bay Recyclers</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Lot 431 Depot Street
+<br>CLEVE SA 5640 </div>]]></description>
+    <styleUrl>#style70</styleUrl>
+    <Point>
+      <coordinates>136.483871,-33.701500,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Northern Saints Recycling Depot</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Lot 787 Flat Hill Road<br>COOBER PEDY SA 5723</div>]]></description>
+    <styleUrl>#style32</styleUrl>
+    <Point>
+      <coordinates>134.744995,-29.014610,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cowell Recycling Depot</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Lot 92 Kimba Road
+<br>COWELL SA 5602 </div>]]></description>
+    <styleUrl>#style66</styleUrl>
+    <Point>
+      <coordinates>136.914490,-33.674961,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cummins Recyclers</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">5A Hayman Drive
+<br>CUMMINS SA 5631 </div>]]></description>
+    <styleUrl>#style31</styleUrl>
+    <Point>
+      <coordinates>135.735092,-34.260269,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Darke Peak Recycling Centre</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Lot 9 Darke Terrace&nbsp;<br>DARKE PEAK SA 5642 </div>]]></description>
+    <styleUrl>#style71</styleUrl>
+    <Point>
+      <coordinates>136.199661,-33.468346,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Elliston Caravan Park Recycling Centre</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">2 Flinders Highway
+<br>ELLISTON SA 5670 </div>]]></description>
+    <styleUrl>#style36</styleUrl>
+    <Point>
+      <coordinates>134.883560,-33.636482,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Eudunda Can &amp; Bottle Depot</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">24 Ward Street
+<br>EUDUNDA SA 5374 </div>]]></description>
+    <styleUrl>#style42</styleUrl>
+    <Point>
+      <coordinates>139.088593,-34.174080,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>South Coast Bottle &amp; Can Co Goolwa</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Section 2282 Goolwa to Middleton Main Road</div>
+<div dir="ltr">GOOLWA SA 5214<span style="font-size:10pt">&nbsp;</span></div>]]></description>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>138.754074,-35.508125,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Parham Feeding Services</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Birdwood Road
+<br>GUMERACHA SA 5233 </div>]]></description>
+    <styleUrl>#style52</styleUrl>
+    <Point>
+      <coordinates>138.895172,-34.821892,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Scout Recycling Centre Adelaide Hills</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Windmill Hill Road
+<br>HAHNDORF SA 5245 </div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>138.835510,-35.049454,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hawker Recycle</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Lot 395 Druid Range Drive
+<br>HAWKER SA 5434 </div>]]></description>
+    <styleUrl>#style51</styleUrl>
+    <Point>
+      <coordinates>138.423660,-31.886103,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Jamestown Recycling</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Boundary Road
+<br>JAMESTOWN SA 5491 </div>]]></description>
+    <styleUrl>#style46</styleUrl>
+    <Point>
+      <coordinates>138.597244,-33.194866,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>YP Recycling</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">100 Port Road
+<br>KADINA SA 5554 </div>]]></description>
+    <styleUrl>#style79</styleUrl>
+    <Point>
+      <coordinates>137.689331,-33.955677,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Keith Recycling Depot</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Lot 12 Stirling Road
+<br>KEITH SA 5267 </div>]]></description>
+    <styleUrl>#style65</styleUrl>
+    <Point>
+      <coordinates>140.359604,-36.108624,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Havachat Bottle Can &amp; Scrap Depot</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Lot 31 Addison Street
+<br>KINGSCOTE SA 5223 </div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>137.629898,-35.651821,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kimba Bottle Yard</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">20 Vintage Drive
+<br>KIMBA SA 5641 </div>]]></description>
+    <styleUrl>#style60</styleUrl>
+    <Point>
+      <coordinates>136.411850,-33.143272,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kingston Recycling Depot</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">10 Railway Terrace
+<br>KINGSTON SA 5275 </div>]]></description>
+    <styleUrl>#style29</styleUrl>
+    <Point>
+      <coordinates>139.859924,-36.832710,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lameroo Recycling Depot</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Lot 2, Pt Sec 92, Enterprise Road
+<br>LAMEROO SA 5302 </div>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>140.513855,-35.323784,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Leigh Creek Bottle &amp; Recycling Depot</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Pony Club Road, off Airport Road
+<br>LEIGH CREEK SA 5731 </div>]]></description>
+    <styleUrl>#style80</styleUrl>
+    <Point>
+      <coordinates>138.403488,-30.601343,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lock Recycling Depot</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Palkagee Road<br>LOCK SA 5633 </div>]]></description>
+    <styleUrl>#style77</styleUrl>
+    <Point>
+      <coordinates>135.762497,-33.561005,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Loxton Ice Works &amp; Recycling</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">1 Badcoe Road
+<br>LOXTON SA 5333 </div>]]></description>
+    <styleUrl>#style35</styleUrl>
+    <Point>
+      <coordinates>140.580963,-34.453659,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lucindale Recycling Depot</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">15 Banksia Street
+<br>LUCINDALE SA 5272 </div>]]></description>
+    <styleUrl>#style37</styleUrl>
+    <Point>
+      <coordinates>140.368942,-36.974178,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mannum Can &amp; Bottle Depot</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">103 Adelaide Road<br>MANNUM SA 5238 </div>]]></description>
+    <styleUrl>#style78</styleUrl>
+    <Point>
+      <coordinates>139.297775,-34.910534,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Marla Travellers&#39; Rest</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Main Stuart Highway
+<br>MARLA SA 5724 </div>]]></description>
+    <styleUrl>#style62</styleUrl>
+    <Point>
+      <coordinates>133.623978,-27.303724,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Marree Recycling Depot</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Lot 63 Sixth Street
+<br>MARREE SA 5733 </div>]]></description>
+    <styleUrl>#style67</styleUrl>
+    <Point>
+      <coordinates>138.061325,-29.648090,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Milang Environmental Centre Inc</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Weeroona Drive
+<br>MILANG SA 5256 </div>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>138.970901,-35.401894,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Millicent Bottle &amp; Can Centre</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Lot 3 Boandik Drive
+<br>MILLICENT SA 5280 </div>]]></description>
+    <styleUrl>#style75</styleUrl>
+    <Point>
+      <coordinates>140.321198,-37.593304,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Meningie Bottle Yard</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Corner Princess Highway &amp; Yumali Road
+<br>MENINGIE SA 5264 </div>]]></description>
+    <styleUrl>#style53</styleUrl>
+    <Point>
+      <coordinates>139.344360,-35.676125,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Yorkes Recycling</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">3 Fifth Street<br>MINLATON SA 5575</div>]]></description>
+    <styleUrl>#style44</styleUrl>
+    <Point>
+      <coordinates>137.592148,-34.772339,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Minnipa Recycling</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">McKenzie Road
+<br>MINNIPA SA 5654 </div>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>135.172104,-32.807510,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mt Barker Bottle &amp; Can Pty Ltd</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">50 Secker Road
+<br>MOUNT BARKER SA 5251 </div>]]></description>
+    <styleUrl>#style74</styleUrl>
+    <Point>
+      <coordinates>138.876923,-35.072823,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Green Triangle Recyclers</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">1 Eucalypt Drive
+<br>MOUNT GAMBIER SA 5290 </div>]]></description>
+    <styleUrl>#style64</styleUrl>
+    <Point>
+      <coordinates>140.803452,-37.846214,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Murray Bridge Recycling</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">55 Thomas Street
+<br>MURRAY BRIDGE SA 5253 </div>]]></description>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>139.261414,-35.122257,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wallys Bottleyard Recycling Centre</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">12-14 Thelda Street<br>MURRAY BRIDGE SA 5253 </div>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>139.258636,-35.122612,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Murray Town Recycling Centre</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Tinline Road
+<br>MURRAY TOWN SA 5481 </div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>138.239639,-32.936062,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Naracoorte Recyclables</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Brighton Drive
+<br>NARACOORTE SA 5271 </div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>140.729568,-36.961887,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Nildottie General Store</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">1 Main Road
+<br>NILDOTTIE SA 5238 </div>]]></description>
+    <styleUrl>#style45</styleUrl>
+    <Point>
+      <coordinates>139.651337,-34.676708,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pink Roadhouse</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Lot 41 Ikaturka Terrace
+<br>OODNADATTA SA 5734 </div>]]></description>
+    <styleUrl>#style55</styleUrl>
+    <Point>
+      <coordinates>135.447891,-27.548967,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Northern Windmills &amp; Agencies</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr"> 26 Second Street
+<br>ORROROO SA 5431 </div>]]></description>
+    <styleUrl>#style68</styleUrl>
+    <Point>
+      <coordinates>138.612885,-32.734314,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Owen Recycling</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">18 Railway Terrace
+<br>OWEN SA 5460 </div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>138.544998,-34.269573,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Penola Recycling Depot</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">4 Riddoch Street
+<br>PENOLA SA 5277 </div>]]></description>
+    <styleUrl>#style33</styleUrl>
+    <Point>
+      <coordinates>140.831940,-37.381607,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>G &amp; C Recyclers</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">37 Kitchener Street<br>PETERBOROUGH SA 5422</div>]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>138.839920,-32.971691,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pinnaroo Collection Centre</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">8 McIntosh Avenue
+<br>PINNAROO SA 5304 </div>]]></description>
+    <styleUrl>#style49</styleUrl>
+    <Point>
+      <coordinates>140.909302,-35.265953,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Augusta Bottle &amp; Can Recyclers</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">7 Woodcock Street
+<br>PORT AUGUSTA SA 5700 </div>]]></description>
+    <styleUrl>#style43</styleUrl>
+    <Point>
+      <coordinates>137.783081,-32.483185,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Port Broughton Recycling Depot</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Dale Road
+<br>PORT BROUGHTON SA 5522 </div>]]></description>
+    <styleUrl>#style34</styleUrl>
+    <Point>
+      <coordinates>137.942230,-33.614655,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>RT &amp; FJ Daniells</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr"> 62 Mortlock Terrace
+<br>PORT LINCOLN SA 5606 </div>]]></description>
+    <styleUrl>#style72</styleUrl>
+    <Point>
+      <coordinates>135.854904,-34.731937,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Port Neill Receival Centre</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">19 Wallis Street
+<br>PORT NEILL SA 5604 </div>]]></description>
+    <styleUrl>#style57</styleUrl>
+    <Point>
+      <coordinates>136.346313,-34.117954,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pirie Bottle &amp; Scrap Metal</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Port Broughton Road
+<br>PORT PIRIE SA 5540 </div>]]></description>
+    <styleUrl>#style59</styleUrl>
+    <Point>
+      <coordinates>138.020233,-33.211437,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>B &amp; A Recycling</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Old Kingoonya Road
+<br>PIMBA SA 5720 </div>]]></description>
+    <styleUrl>#style41</styleUrl>
+    <Point>
+      <coordinates>136.799469,-31.251963,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Quorn Recyclers</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Lot 40, Arden Vale Road
+<br>QUORN SA 5433 </div>]]></description>
+    <styleUrl>#style48</styleUrl>
+    <Point>
+      <coordinates>138.033920,-32.341141,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Renmark Recycling Services</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Lot 80, Industry Road
+<br>RENMARK SA 5341 </div>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>140.733597,-34.184982,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Robe Beachport Recycle</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">10-12 Flint Street <br>ROBE SA 5276</div>]]></description>
+    <styleUrl>#style30</styleUrl>
+    <Point>
+      <coordinates>139.760086,-37.172527,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Roxby Woomera Recycling Pty Ltd</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">10 Gosse Street
+<br>ROXBY DOWNS SA 5725 </div>]]></description>
+    <styleUrl>#style73</styleUrl>
+    <Point>
+      <coordinates>136.895203,-30.553402,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MJ &amp; RJ Modra</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Lot 99 Brentwood Road
+<br>STANSBURY SA 5582 </div>]]></description>
+    <styleUrl>#style27</styleUrl>
+    <Point>
+      <coordinates>137.786850,-34.907475,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Strathalbyn Recycling</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Dry Plains Road <br>STRATHALBYN SA 5255 </div>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>138.896347,-35.271820,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bay Recycling</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">3 McCormack Way
+<br>STREAKY BAY SA 5680 </div>]]></description>
+    <styleUrl>#style84</styleUrl>
+    <Point>
+      <coordinates>134.221237,-32.799038,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tumby Bay Recycling</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Lebrun Street<br>TUMBY BAY SA 5605 </div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>136.089539,-34.372250,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Adelaide Plains Recycling</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Middle Beach Road
+<br>TWO WELLS SA 5501 </div>]]></description>
+    <styleUrl>#style54</styleUrl>
+    <Point>
+      <coordinates>138.490524,-34.581585,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>South Coast Bottle &amp; Can Co Pty Ltd</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">34-36 Maude Street</div>
+<div dir="ltr">VICTOR HARBOR SA 5211</div>]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>138.601746,-35.559422,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Waikerie Bottle &amp; Can Depot</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Checker Road
+<br>WAIKERIE SA 5330 </div>]]></description>
+    <styleUrl>#style69</styleUrl>
+    <Point>
+      <coordinates>140.005692,-34.195641,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Warooka Depot</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">7 Fourth Street
+<br>WAROOKA SA 5577 </div>]]></description>
+    <styleUrl>#style83</styleUrl>
+    <Point>
+      <coordinates>137.400085,-34.991127,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Veolia Environmental Services</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">6 Storey Street
+<br>WHYALLA NORRIE SA 5608 </div>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>137.549667,-33.036633,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Whyte Yarcowie Depot</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Second Street <br>WHYTE YARCOWIE SA 5420</div>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>138.884247,-33.229389,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Onkaparinga Waste &amp; Recycling</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">28 Henry Road
+<br>WOODSIDE SA 5163 </div>]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>138.886963,-34.936829,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wudinna Recycling</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Section 18 Hundred of Pygery <br>WUDINNA SA 5652 </div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>135.460068,-33.030682,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Yankalilla Coastal Recycling Depot</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Lot 8 Bartlett Place </div>
+<div dir="ltr">YANKALILLA SA 5203</div>]]></description>
+    <styleUrl>#style40</styleUrl>
+    <Point>
+      <coordinates>138.357559,-35.464111,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
