@@ -1,32 +1,24 @@
 // --------------------------------------------------------------------------
 // This is a sandbox used by the YUI toolkit
 // --------------------------------------------------------------------------
-YUI().use('node', 'event', function (Y) {
+YUI().use('node', 'event', 'button', function (Y) {
     // The Node and Event modules are loaded and ready to use.
+	var oSubmitButton1 = new Y.one('input[name="ask_school"]');
+//, { value: "submitbutton1value" }); 
+	var formId = "form1", form = Y.one("#"+formId), uri = form.get('action'), method = form.get('method');
+	form.on('submit', function(e) {
+    form1.submit();
+	})
 });
 
-YUI().use('datasource', function (Y) {
-    // DataSource is available and ready for use
-    var myDataSource = new Y.DataSource.Get({
-        source: "http://localhost/seeu/ws_schools.psp?"
-    });
-    myDataSource.plug({fn: Y.Plugin.DataSourceJSONSchema, cfg: {
-        schema: {
-            resultListLocator: "Result",
-            resultFields: ["Name"]
-        }
-    }});
-    myDataSource.sendRequest({
-        request: "",
-        on: {
-            success: function(e){
-                alert(e.response);
-            },
-            failure: function(e){
-                alert(e.error.message);
-            }
-        }
-    });
+
+YUI().use('autocomplete', 'autocomplete-filters', 'autocomplete-highlighters', function (Y) {
+  var states = myPyGlobal;
+  Y.one('#ac-input').plug(Y.Plugin.AutoComplete, {
+    resultFilters    : 'phraseMatch',
+    resultHighlighter: 'phraseMatch',
+    source           : states
+  });
 });
 
 // --------------------------------------------------------------------------
@@ -43,10 +35,10 @@ function initmap() {
 	var streetMapLayer = new L.TileLayer( smUrl, {minZoom: 6, maxZoom: 13, attribution: smAttrib});
 
 	// Lets center on Adelaide :-)
-	map.setView(new L.LatLng(-34.929, 138.6010),6);
+	map.setView(new L.LatLng(myPyLat,myPyLon),10);
 	map.addLayer(streetMapLayer);
 
-	L.marker([-34.933, 138.602]).addTo(map).bindPopup("<b>Hello world!</b><br />I am a popup.").openPopup();
+	L.marker([myPyLat,myPyLon]).addTo(map).bindPopup("<b>" + myPySchoolName + "</b>").openPopup();
 
 	L.circle([-34.922,138.612], 500, {
 		color: 'red',
