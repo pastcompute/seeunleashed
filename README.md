@@ -4,18 +4,22 @@ The design of the concept is shown in the LibreOffice Impress presentation file,
 
 ### License Information
 
-Licenses of mashed up software:
+Licenses of software mashup tools:
 
-
-*YUI - https://yuilibrary.com/ - BSD License
-*leaflet - http://leafletjs.com/ - a generic BSD-like open license - redistribution permitted with retention of notice
+Library | URL | License
+------- | --- | --------
+YUI | https://yuilibrary.com/ | BSD License
+leaflet | http://leafletjs.com/ | a generic BSD-like open license - redistribution permitted with retention of notice
 
 
 Sources of currently integrated data:
 
-*http://www.data.sa.gov.au/dataset/zero-waste-sa-recycle-right-search-engine
-*http://www.data.sa.gov.au/dataset/education-and-child-development-sites-and-services
-*https://www.sa.gov.au/__data/assets/pdf_file/0007/64726/DECD-Site-Location-Data.pdf
+Data | URL
+---- | ---
+Recycle stations | http://www.data.sa.gov.au/dataset/zero-waste-sa-recycle-right-search-engine
+Child health | http://www.data.sa.gov.au/dataset/education-and-child-development-sites-and-services
+Schools | https://www.sa.gov.au/__data/assets/pdf_file/0007/64726/DECD-Site-Location-Data.pdf
+Maps | Open Street Map creative commons
 
 Note: school locations derived from www.sa.gov.au site as per above URL, which has a CC3 license at bottom of page.
 We checked with one of the Unleashed volunteers and they thought that should be fine.
