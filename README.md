@@ -1,15 +1,26 @@
-seeunleashed
-============
+## School Environment Explorer
+
+The design of the concept is shown in the LibreOffice Impress presentation file, <a href="design/SchoolEnvironmentalExplorerConcept.odp">design/SchoolEnvironmentalExplorerConcept.odp</a>
+
+### License Information
 
 Licenses of mashed up software:
 
-YUI - https://yuilibrary.com/ - BSD License
-leaflet - http://leafletjs.com/ - a generic BSD-like open license - redistribution permitted with retention of notice
 
-Licenses of data:
+*YUI - https://yuilibrary.com/ - BSD License
+*leaflet - http://leafletjs.com/ - a generic BSD-like open license - redistribution permitted with retention of notice
 
-* zerowaste SA recycle locations from data.sa.gov.au
-* school locations derived from xxx.PDF from www.sa.gov.au with CC License at bottom of page 
+
+Sources of currently integrated data:
+
+*http://www.data.sa.gov.au/dataset/zero-waste-sa-recycle-right-search-engine
+*http://www.data.sa.gov.au/dataset/education-and-child-development-sites-and-services
+*https://www.sa.gov.au/__data/assets/pdf_file/0007/64726/DECD-Site-Location-Data.pdf
+
+Note: school locations derived from www.sa.gov.au site as per above URL, which has a CC3 license at bottom of page.
+We checked with one of the Unleashed volunteers and they thought that should be fine.
+
+### Developer Instructions
 
 To use on a ubuntu system e.g. a micro AWS instance:
 
