@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Approved collection depots - Metropolitan Adelaide</name>
+  <description><![CDATA[Approved collection depots in Metropolitan Adelaide for the return of refund-bearing drink containers sold in South Australia.
+
+The information provided is is licensed under a Creative Commons Attribution 3.0 Australia License .]]></description>
+  <NetworkLink>
+    <name>Approved collection depots - Metropolitan Adelaide</name>
+    <Link>
+      <href>http://www.google.com/maps/ms?dg=feature&amp;ie=UTF8&amp;authuser=0&amp;hl=en&amp;oe=UTF8&amp;msa=0&amp;msid=217312803976435614504.0004c8eb4e9aae7388ee4&amp;output=kml</href>
+    </Link>
+  </NetworkLink>
+</Document>
+</kml>
