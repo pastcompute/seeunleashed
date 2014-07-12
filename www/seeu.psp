@@ -1,0 +1,37 @@
+<%
+debug = False
+from common import *
+%>
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+<meta charset="UTF-8" />
+<title>School Environment Explorer - Govhack Unleashed 2014 - Team Randoms</title>
+
+<!-- We are using leaflet open source javascript library for the map visualisation -->
+<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+
+<!-- We are using YUI toolkit which is an open source web tool  -->
+<script src="http://yui.yahooapis.com/3.17.2/build/yui/yui-min.js"></script>
+
+<script src="seeu.js"></script>
+</head>
+<body onload="onloadHandler()">
+<h2><%= pageTitle %></h2>
+
+<div id="demo" class="yui3-skin-sam">
+  <label for="ac-input">Find your school!</label><br>
+  <input id="ac-input" type="text">
+</div>
+
+<br/>
+
+<div style="width:800px; height: 480px; background-color: white;" id="the-map"></div>
+<%
+if debug == True:
+  req.write("<pre>%s</pre>" % sys.path)
+  req.write("<pre>%s</pre>" % dbTestConnection())
+%>
+</body>
+<html>

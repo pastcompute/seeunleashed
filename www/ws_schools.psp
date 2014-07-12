@@ -1,0 +1,14 @@
+<%
+# Web service that gets all the school names
+from common import *
+data = dbGetSchoolsNames()
+# req.write("<br/>\n".join([str(school) for school in data]))
+%>
+{ "Result:"[
+<%
+for school in data:
+%>
+{ "Name" : "<%= str(school) %>" },<%
+%>
+]}
+
