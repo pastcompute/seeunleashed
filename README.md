@@ -1,6 +1,6 @@
 ## School Environment Explorer
 
-The design of the concept is shown in the LibreOffice Impress presentation file, <a href="design/SchoolEnvironmentalExplorerConcept.odp">design/SchoolEnvironmentalExplorerConcept.odp</a>
+The design of the concept is shown in the LibreOffice Impress presentation file, <a href="design/SchoolEnvironmentalExplorerConcept.pdf">design/SchoolEnvironmentalExplorerConcept.pdf</a>
 
 ### License Information
 
