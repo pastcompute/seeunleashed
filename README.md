@@ -27,7 +27,6 @@ We checked with one of the Unleashed volunteers and they thought that should be 
 ### Prototype Bugs
 
 * The auto complete drop down is not reducing the number of schools.  This is a key feature that isnt working!
-* The recycle center data is not linked to the school, I ran out of time :-(
 
 ### Developer Instructions
 
