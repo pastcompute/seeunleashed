@@ -1,0 +1,8 @@
+<%
+# Web service that gets single school info from id
+from common import *
+
+data = dbGetSchoolFromId(int("%s" % form['id'].value))
+#req.write("\n".join(["%s,%s %s %s" % (row[0], str(row[1]), str(row[2]), str(row[3])) for row in data]))
+%>
+

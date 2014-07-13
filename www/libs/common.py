@@ -31,3 +31,13 @@ def dbGetSchoolsRows():
 
   # This is a little tedious, I haven't had time to find the 'proper' way 
   return cur.fetchall()
+
+def dbGetSchoolFromId(schoolId):
+  conn = psycopg2.connect(database="seeudb", user="seeu", password="seeme", host="localhost")
+
+  # Download the rows under our control
+  cur = conn.cursor()
+  cur.execute("select * from schools where id=%d" % schoolId)
+
+  # This is a little tedious, I haven't had time to find the 'proper' way 
+  return cur.fetchone()

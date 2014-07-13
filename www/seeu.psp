@@ -6,7 +6,7 @@ from common import *
 <html lang="en-AU">
 <head>
 <meta charset="UTF-8" />
-<title>School Environment Explorer - Govhack Unleashed 2014 - Team Randoms</title>
+<title>School Environment Explorer - Govhack Unleashed 2014 - by Team Randoms</title>
 
 <!-- We are using leaflet open source javascript library for the map visualisation -->
 <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
@@ -19,31 +19,46 @@ from common import *
      when we dont want to use AJAX -->
 
 <script>
-var myPyLat = -34.929 // %= dbGetSchoolLatFromSchool(form['school')
-var myPyLon =  138.6010
-var myPySchoolName = "xxx"
+var myPyLat = -34.929; // %= dbGetSchoolLatFromSchool(form['school')
+var myPyLon =  138.6010;
+var myPySchoolName = "Gilles Street Primary School<br/>Nearest center: Anglicare North Adelaide accepts textiles and furniture";
 </script>
 
 <script src="seeu.js"></script>
 </head>
 <body onload="onloadHandler()">
-<h2><%= pageTitle %></h2>
-
+<h2>Welcome to the School Environment Explorer :-)</h2>
+<p>(A Team Randoms Production)</p>
+<%
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+if not form.has_key('ask_school'):
+%>
+<!-- When the children browse to the page, get them to find their school -->
 <div id="demo" class="yui3-skin-sam">
   <form id="form1">
-    <label for="ac-input">Find your school!</label><br>
+    <label for="ac-input">Hi there! Start typing to find your school!</label><br>
     <input id="ac-input" name="school" type="text">
+    <input id="myHidden" name="school-id" type="hidden"> 
     <input id="submitbutton1" type="submit" name="ask_school" value="Go!">
   </form>
 </div>
-
-<br/>
 <%
-if form.has_key('ask_school'):
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+elif form.has_key('id'):
+%>Sorry, something went wrong with your query, return to the <a href="seeu.psp">main page</a>.<%  
+else:
+  schoolData = dbGetSchoolFromId(form['id'])
+  req.write
 %>
+<!-- When a school is selected, search for nearby recycling center and show school information as well -->
+<br/>
+Your chosen school is <%= schoolData[1]%></label><br>
 <div style="width:800px; height: 480px; background-color: white;" id="the-map"></div>
 <%
+# endif
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 %>
+<!-- Debug goes below here -->
 <%
 if debug == True:
   req.write("<pre>%s</pre>" % sys.path)
