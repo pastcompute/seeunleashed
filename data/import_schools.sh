@@ -14,7 +14,7 @@ select count(*) from schools_raw;
 drop table if exists schools;
 create table schools as 
 select
-    id, name, address, suburb, postcode,
+    id, name, address, suburb, postcode, lat, lon,
     GeomFromEWKT('SRID=4326; point('||lon||' '||lat||')') as geom
 from
     schools_raw;

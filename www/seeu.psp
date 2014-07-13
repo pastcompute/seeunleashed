@@ -16,15 +16,25 @@ from common import *
 <script src="http://yui.yahooapis.com/3.17.2/build/yui/yui-min.js"></script>
 
 <!-- This is a hack to set the some javascript variables from a python server side query output
-     when we dont want to use AJAX -->
-
+     when we dont want to use AJAX. If I had more than a day the design of this would be significantly improved. -->
 <script>
-var myPyLat = -34.929; // %= dbGetSchoolLatFromSchool(form['school')
-var myPyLon =  138.6010;
-var myPySchoolName = "Gilles Street Primary School<br/>Nearest center: Anglicare North Adelaide accepts textiles and furniture";
+<%
+if form.has_key('school-id'):
+  xid = form['school-id'].value
+  schoolData = dbGetSchoolFromId(xid)
+%>
+var sname = "<%= schoolData[1]%>";
+// This is fake data, because we ran out of time.
+var scentre = "Anglicare North Adelaide accepts textiles and furniture";
+var myPySchoolName = "<font color='blue'>" + sname + "</font><br/>Nearest recycle center:<br/><font color='green'>" + scentre + "</font>";
+var myPyLat = <%= dbGetSchoolLatFromSchool(xid)[0]%>;
+var myPyLon = <%= dbGetSchoolLonFromSchool(xid)[0]%>;
+<%
+%>
 </script>
-
 <script src="seeu.js"></script>
+
+
 </head>
 <body onload="onloadHandler()">
 <h2>Welcome to the School Environment Explorer :-)</h2>
@@ -44,15 +54,14 @@ if not form.has_key('ask_school'):
 </div>
 <%
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-elif form.has_key('id'):
+elif not form.has_key('school-id'):
 %>Sorry, something went wrong with your query, return to the <a href="seeu.psp">main page</a>.<%  
 else:
-  schoolData = dbGetSchoolFromId(form['id'])
-  req.write
+  schoolData = dbGetSchoolFromId(form['school-id'])
 %>
 <!-- When a school is selected, search for nearby recycling center and show school information as well -->
 <br/>
-Your chosen school is <%= schoolData[1]%></label><br>
+Your chosen school is <%= schoolData[1]%>&nbsp;&nbsp;(<a href="seeu.psp">Return to search</a>).<br/><br/>
 <div style="width:800px; height: 480px; background-color: white;" id="the-map"></div>
 <%
 # endif
