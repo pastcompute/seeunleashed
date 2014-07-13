@@ -24,6 +24,11 @@ Maps | Open Street Map creative commons
 Note: school locations derived from www.sa.gov.au site as per above URL, which has a CC3 license at bottom of page.
 We checked with one of the Unleashed volunteers and they thought that should be fine.
 
+### Prototype Bugs
+
+* The auto complete drop down is not reducing the number of schools.  This is a key feature that isnt working!
+* The recycle center data is not linked to the school, I ran out of time :-(
+
 ### Developer Instructions
 
 To use on a ubuntu system e.g. a micro AWS instance:
