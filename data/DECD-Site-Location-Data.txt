@@ -1,0 +1,7101 @@
+Site Location Data
+The following table provides the Latitude and Longitude for all South Australian Government schools and preschools.
+Table 1: Site Location Data for SA Government schools and preschools
+Updated November 2013
+School
+Number
+School name
+Address
+102
+East Murray Area School
+1182 East Murray Area School Road
+104
+Coromandel Valley Primary School
+339 Main Road
+105
+Glossop High School Senior Campus
+36 Kay Avenue
+106
+Cowandilla Primary School
+21 Jenkins Street
+107
+Crafers Primary School
+55 Piccadilly Road
+111
+Crystal Brook Primary School
+7 Mitchell Street
+114
+Curramulka Primary School
+Sixth Street
+116
+Murray Bridge Special School
+1 North Terrace
+120
+Gilles Street Primary School
+91 Gilles Street
+123
+Echunga Primary School
+802 Echunga Road
+124
+Eden Hills Primary School
+78 Wilpena Street
+126
+Edithburgh Primary School
+Giles Terrace
+127
+Edwardstown Primary School
+Maria Street
+128
+Elliston Area School
+131
+Norwood Primary School
+37 Osmond Terrace
+135
+Flinders Park Primary School
+70 Holbrooks Road
+136
+Lenswood Primary School
+Adelaide-Lobethal Road
+138
+Frances Primary School
+Bradley Avenue
+139
+Freeling Primary School
+Coulls Street
+141
+Gawler Primary School
+School Road
+142
+Evanston Gardens Primary School
+71 Angle Vale Road
+144
+Georgetown Primary School
+41 School Road
+145
+Geranium Primary School
+1-3 Geranium Terrace
+146
+Gilles Plains Primary School
+Beatty Avenue
+147
+Gladstone Primary School
+2 West Terrace
+148
+Glenburnie Primary School
+36 Kromelite Road
+Department for Education and Child Development – Site Location Data
+Updated November 2013
+
+1
+
+Suburb
+Mindarie
+Coromandel Valley
+Berri
+Cowandilla
+Crafers
+Crystal Brook
+Curramulka
+Murray Bridge
+Adelaide
+Echunga
+Eden Hills
+Edithburgh
+Melrose Park
+Elliston
+Norwood
+Flinders Park
+Lenswood
+Frances
+Freeling
+Gawler
+Evanston Gardens
+Georgetown
+Geranium
+Hillcrest
+Gladstone
+Glenburnie
+
+Postcode
+5309
+5051
+5343
+5033
+5152
+5523
+5580
+5253
+5000
+5153
+5050
+5583
+5039
+5670
+5067
+5025
+5240
+5262
+5372
+5118
+5116
+5472
+5301
+5086
+5473
+5291
+
+Latitude
+-34.815955
+-35.033562
+-34.284555
+-34.934543
+-34.993387
+-33.352948
+-34.695502
+-35.115681
+-34.93449
+-35.097706
+-35.020546
+-35.080214
+-34.978729
+-33.644153
+-34.9224034
+-34.911103
+-34.922274
+-36.708483
+-34.457881
+-34.597541
+-34.623986
+-33.363733
+-35.378728
+-34.858157
+-33.266137
+-37.84041
+
+Longitude
+140.216073
+138.626758
+140.602515
+138.558874
+138.71348
+138.213543
+137.713697
+139.269869
+138.604464
+138.79085
+138.595317
+137.74404
+138.57801
+134.892451
+138.63167
+138.54754
+138.823468
+140.956465
+138.811701
+138.740692
+138.720025
+138.38608
+140.160067
+138.651728
+138.350584
+140.863876
+
+School
+Number
+152
+153
+156
+157
+160
+162
+163
+167
+169
+171
+175
+176
+177
+179
+187
+194
+195
+197
+198
+200
+202
+204
+205
+207
+209
+210
+211
+212
+214
+218
+219
+220
+221
+
+School name
+Glen Osmond Primary School
+Glossop Primary School
+Goodwood Primary School
+Goolwa Primary School
+Greenock Primary School
+Gumeracha Primary School
+Hahndorf Primary School
+Hamley Bridge Primary School
+Rose Park Primary School
+Happy Valley Primary School
+Hawker Area School
+Heathfield Primary School
+Henley Beach Primary School
+North Adelaide Primary School
+Houghton Primary School
+Jervois Primary School
+Youth Education Centre
+Kalangadoo Primary School
+Kangarilla Primary School
+Kapunda Primary School
+Alberton Primary School
+Kersbrook Primary School
+Keyneton Primary School
+Kilkenny Primary School
+Kingston on Murray Primary School
+Aldgate Primary School
+Kongorong Primary School
+Koolunga Primary School
+Mid North Education Centre
+Eastern Fleur Langhorne Creek Campus
+Largs Bay School
+Laura Primary School
+Le Fevre Peninsula Primary School
+
+Address
+5 Fisher Street
+Mitchell Terrace
+140 Goodwood Road
+Gardiner Street
+Bevan Street
+Albert Street
+12 Church Street
+13 Florence Street
+54 Alexandra Avenue
+18 Education Road
+Arkaba Street
+201 Longwood Road
+38 Hazel Terrace
+62-80 Tynte Street
+1376 Lower North East Road
+Rayson Street
+Goldsborough Road
+48B Kangaroo Flat Road
+Main Road
+Mildred Street
+14 Broad Street
+Bowden Street
+
+Department for Education and Child Development – Site Location Data
+Updated November 2013
+
+Jane Street
+East Terrace
+3 Fairview Road
+34 School Road
+David Street
+215 Fletcher Road
+East Terrace
+Shorney Street
+2
+
+Suburb
+Myrtle Bank
+Glossop
+Goodwood
+Goolwa
+Greenock
+Gumeracha
+Hahndorf
+Hamley Bridge
+Rose Park
+Happy Valley
+Hawker
+Heathfield
+Henley Beach South
+North Adelaide
+Houghton
+Jervois
+Cavan
+Kalangadoo
+Kangarilla
+Kapunda
+Queenstown
+Kersbrook
+Keyneton
+West Croydon
+Kingston on Murray
+Aldgate
+Kongorong
+Koolunga
+Port Pirie
+Langhorne Creek
+Largs Bay
+Laura
+Birkenhead
+
+Postcode
+5064
+5344
+5034
+5214
+5360
+5233
+5245
+5401
+5067
+5159
+5434
+5153
+5022
+5006
+5131
+5259
+5094
+5278
+5157
+5373
+5014
+5231
+5353
+5008
+5331
+5154
+5291
+5464
+5540
+5255
+5016
+5480
+5015
+
+Latitude
+-34.957051
+-34.271342
+-34.951434
+-35.497553
+-34.459939
+-34.824981
+-35.027625
+-34.354549
+-34.93161
+-35.087062
+-31.89042
+-35.03002
+-34.929734
+-34.905096
+-34.831521
+-35.266177
+-34.828265
+-37.564684
+-35.147815
+-34.337951
+-34.862675
+-34.782306
+-34.554333
+-34.890764
+-34.222619
+-35.019502
+-37.902241
+-33.580835
+-33.17503
+-35.296945
+-34.823557
+-33.187073
+-34.840072
+
+Longitude
+138.637255
+140.524768
+138.588694
+138.780252
+138.921793
+138.880956
+138.810629
+138.684929
+138.628893
+138.583603
+138.427892
+138.727311
+138.499429
+138.597558
+138.759129
+139.437094
+138.60253
+140.695568
+138.659484
+138.918029
+138.51264
+138.849719
+139.1338
+138.552731
+140.346866
+138.748939
+140.560875
+138.335026
+138.005415
+139.035993
+138.49427
+138.303714
+138.495412
+
+School
+Number
+222
+223
+225
+227
+230
+231
+235
+237
+239
+241
+242
+245
+248
+249
+250
+251
+252
+253
+255
+262
+265
+269
+270
+272
+274
+279
+280
+282
+285
+288
+289
+290
+293
+
+School name
+Aldinga Beach R-7 School
+Light Pass Primary School
+Littlehampton Primary School
+Lobethal Primary School
+Lock Area School
+Lockleys Primary School
+Loveday Primary School
+Lyndoch Primary School
+Macclesfield Primary School
+Mallala Primary School
+Angaston Primary School
+Manoora Primary School
+Marree Aboriginal School
+Marryatville Primary School
+McLaren Flat Primary School
+McLaren Vale Primary School
+Meadows Primary School
+Melrose Primary School
+Angle Vale Primary School
+Eastern Fleurieu Milang Campus
+Mil Lel Primary School
+Farrell Flat Primary School
+Mitcham Primary School
+Modbury School Preschool to Year 7
+Monash Primary School
+Moorak Primary School
+Moorook Primary School
+Morgan Primary School
+Mount Barker Primary School
+Mount Burr Primary School
+Mount Compass Area School
+Reidy Park Primary School
+Mount Pleasant Primary School
+
+Address
+Quinliven Road
+395 Light Pass Road
+16-30 Baker Street
+1 School Road
+West Terrace
+29 Elston Street
+Hunt Road
+Margaret Street
+Luck Street
+28 Owen Road
+5 Moculta Road
+3 Weymouth Street
+First Street
+Dankel Avenue
+49 Main Road
+Caffrey Street
+Mawson Road
+29 Stuart Street
+Heaslip Road
+Cnr Coxe & Rivers Streets
+465 Kennedy Avenue
+Love Street
+Hillview Road
+2-18 Golden Grove Road
+22 Jackson Street
+171 Yells Road
+Wachtel Rd
+Fourth Street
+2A Dumas Street
+Thomas Drive
+School Road
+O'Halloran Terrace
+22 Hospital Road
+
+Department for Education and Child Development – Site Location Data
+Updated November 2013
+
+3
+
+Suburb
+Aldinga
+Light Pass
+Littlehampton
+Lobethal
+Lock
+Brooklyn Park
+Loveday
+Lyndoch
+Macclesfield
+Mallala
+Angaston
+Manoora
+Marree
+Kensington
+McLaren Flat
+McLaren Vale
+Meadows
+Melrose
+Angle Vale
+Milang
+Mil-Lel
+Farrell Flat
+Kingswood
+Modbury North
+Monash
+Moorak
+Moorook
+Morgan
+Mount Barker
+Mount Burr
+Mount Compass
+Mount Gambier
+Mount Pleasant
+
+Postcode
+5173
+5355
+5250
+5241
+5633
+5032
+5345
+5351
+5153
+5502
+5353
+5414
+5733
+5068
+5171
+5171
+5201
+5483
+5117
+5256
+5291
+5416
+5062
+5092
+5342
+5291
+5332
+5320
+5251
+5279
+5210
+5290
+5235
+
+Latitude
+-35.268942
+-34.46919
+-35.049605
+-34.90169
+-33.567909
+-34.930203
+-34.281907
+-34.60554
+-35.171357
+-34.434716
+-34.499092
+-34.006284
+-29.649196
+-34.924542
+-35.206109
+-35.211634
+-35.180498
+-32.823832
+-34.643388
+-35.405862
+-37.781125
+-33.919182
+-34.972879
+-34.825905
+-34.236306
+-37.86465
+-34.276231
+-34.029492
+-35.067641
+-37.54095
+-35.350201
+-37.834544
+-34.774395
+
+Longitude
+138.461849
+139.025019
+138.868025
+138.871723
+135.753344
+138.535095
+140.42025
+138.885678
+138.838503
+138.510526
+139.050833
+138.814121
+138.061033
+138.649185
+138.587206
+138.531402
+138.761924
+138.187995
+138.647377
+138.973123
+140.825631
+138.719942
+138.616131
+138.692227
+140.559419
+140.736981
+140.351142
+139.670335
+138.853522
+140.459314
+138.619759
+140.771765
+139.053867
+
+School
+Number
+296
+297
+299
+301
+302
+303
+305
+306
+308
+309
+313
+314
+316
+318
+322
+323
+324
+325
+326
+327
+328
+329
+336
+337
+338
+339
+340
+342
+346
+351
+352
+355
+356
+
+School name
+Mount Torrens Primary School
+Mundulla Primary School
+Murray Bridge North School
+Mylor Primary School
+Mypolonga Primary School
+Myponga Primary School
+Nailsworth Primary School
+Nairne Primary School
+Napperby Primary School
+Naracoorte Primary School
+Old Noarlunga Primary School
+Northfield Primary School
+Norton Summit Primary School
+Nuriootpa Primary School
+One Tree Hill Primary School
+Coorara Primary School
+Oodnadatta Aboriginal School
+Owen Primary School
+Palmer Primary School
+Paracombe Primary School
+Parkside Primary School
+Glossop High School Middle Campus
+Penneshaw Campus
+Pennington Primary School
+Penong Primary School
+Peterborough Primary School
+Ascot Park Primary School
+Eastern Fleurieu Ashbourne Campus
+Plympton Primary School
+Poonindie Community Learning Centre
+Pooraka Primary School
+Port Augusta West Primary School
+Port Elliot Primary School
+
+Department for Education and Child Development – Site Location Data
+Updated November 2013
+
+Address
+39 Prescott Street
+1 North Terrace
+220 Strathalbyn Road
+Hutchinson Street
+2 Balfour Street
+5 Saleyard Road
+Oaks Road
+Park Terrace
+Malpas Street
+North Avenue
+15 Crescent Drive
+15 Buna Terrace
+McGilp Road
+Taylors Avenue
+Kutaya Tce
+Fourth Street
+Olive Grove Avenue
+4 Harvey Road
+12 Robsart Street
+Old Sturt Highway
+Howard Drive
+Butler Avenue
+75 Bridges Street
+1-37 Pildappa Avenue
+14 Ashbourne Road
+19 Owen Street
+Hirschausen Road
+11 South Terrace
+46 Mildred Street
+4 Cameron Street
+4
+
+Suburb
+Mount Torrens
+Mundulla
+Murray Bridge
+Mylor
+Mypolonga
+Myponga
+Nailsworth
+Nairne
+Napperby
+Naracoorte
+Old Noarlunga
+Northfield
+Norton Summit
+Nuriootpa
+One Tree Hill
+Morphett Vale
+Oodnadatta
+Owen
+Palmer
+Paracombe
+Parkside
+Glossop
+Penneshaw
+Pennington
+Penong
+Peterborough
+Park Holme
+Ashbourne
+Plympton
+Poonindie
+Pooraka
+Port Augusta West
+Port Elliot
+
+Postcode
+5244
+5270
+5253
+5153
+5254
+5202
+5083
+5252
+5540
+5271
+5168
+5085
+5136
+5355
+5114
+5162
+5734
+5460
+5237
+5132
+5063
+5344
+5222
+5013
+5690
+5422
+5043
+5157
+5038
+5607
+5095
+5700
+5212
+
+Latitude
+-34.872528
+-36.357628
+-35.115804
+-35.040969
+-35.040591
+-35.392694
+-34.88242
+-35.03837
+-33.153603
+-36.951082
+-35.182997
+-34.849012
+-34.927695
+-34.472908
+-34.713101
+-35.131326
+-27.548914
+-34.271796
+-34.853574
+-34.851674
+-34.944657
+-34.274808
+-35.720872
+-34.857487
+-31.92861
+-32.971085
+-34.990774
+-35.288765
+-34.9612
+-34.580807
+-34.833519
+-32.483205
+-35.530015
+
+Longitude
+138.964449
+140.693069
+139.269327
+138.760093
+139.357523
+138.464452
+138.603752
+138.903539
+138.11349
+140.738119
+138.500633
+138.61972
+138.728837
+139.001322
+138.766547
+138.542009
+135.445834
+138.542669
+139.161721
+138.781984
+138.620087
+140.534942
+137.931836
+138.532493
+133.005426
+138.832375
+138.554376
+138.765705
+138.556819
+135.881095
+138.613108
+137.754202
+138.678278
+
+School
+Number
+357
+358
+359
+361
+362
+363
+365
+366
+368
+372
+375
+376
+377
+378
+379
+381
+383
+384
+385
+387
+389
+391
+395
+396
+397
+406
+407
+408
+411
+413
+418
+419
+422
+
+School name
+Port Germein Primary School
+Port Kenny Primary School
+Port Lincoln Primary School
+Port Neill Primary School
+Port Noarlunga Primary School
+Port Pirie West Primary School
+Port Vincent Primary School
+Port Wakefield Primary School
+Prospect Primary School
+Ramco Primary School
+Rendelsham Primary School
+Renmark Primary School
+Renmark North Primary School
+Renmark West Primary School
+Reynella Primary School
+Richmond Primary School
+Riverton Primary School
+Robe Primary School
+Robertstown Primary School
+Roseworthy Primary School
+Saddleworth Primary School
+St Leonards Primary School
+Sandy Creek Primary School
+Scott Creek Primary School
+Seaton Park Primary School
+Solomontown Primary School
+Spalding Primary School
+Springton Primary School
+Stansbury Primary School
+Stirling East Primary School
+Eastern Fleurieu Strath R-6 Campus
+Athelstone School
+Suttontown Primary School
+
+Department for Education and Child Development – Site Location Data
+Updated November 2013
+
+Address
+Fifth Street
+Little Street
+Lincoln Place
+10 James Avenue
+214 The Terrace
+Minlacowie Road
+22 Mine Street
+27 Gladstone Road
+Nilsson Street
+58 Murtho Street
+Warrego Street
+Tarcoola Street
+55-63 Concord Drive
+8 Surrey Road
+21 Swinden Street
+Union Street
+Corey Street
+Gartrell Street
+7 Saddle Road
+Jervois Street
+Davies Road
+519 Scott Creek Road
+80 Balcombe Avenue
+79 Three Chain Road
+Edgeware Avenue
+North Terrace
+51 Braeside Road
+34 East Terrace
+8 Brookside Road
+Pine Hall Avenue
+5
+
+Suburb
+Port Germein
+Port Kenny
+Port Lincoln
+Port Neill
+Port Noarlunga
+Port Pirie
+Port Vincent
+Port Wakefield
+Prospect
+Ramco
+Rendelsham
+Renmark
+Renmark North
+Renmark
+Old Reynella
+Keswick
+Riverton
+Robe
+Robertstown
+Roseworthy
+Saddleworth
+Glenelg North
+Cockatoo Valley
+Scott Creek
+Seaton
+Port Pirie
+Spalding
+Springton
+Stansbury
+Stirling
+Strathalbyn
+Athelstone
+Suttontown
+
+Postcode
+5495
+5671
+5606
+5604
+5167
+5540
+5581
+5550
+5082
+5322
+5280
+5341
+5341
+5341
+5161
+5035
+5412
+5276
+5381
+5371
+5413
+5045
+5351
+5153
+5023
+5540
+5454
+5235
+5582
+5152
+5255
+5076
+5291
+
+Latitude
+-33.018198
+-33.165184
+-34.723909
+-34.116548
+-35.143859
+-33.181868
+-34.78159
+-34.187379
+-34.884916
+-34.169777
+-37.551464
+-34.171145
+-34.126289
+-34.166258
+-35.100928
+-34.943391
+-34.15606
+-37.16374
+-33.98999
+-34.53392
+-34.080565
+-34.972261
+-34.610068
+-35.056668
+-34.895535
+-33.18994
+-33.496312
+-34.706581
+-34.907661
+-35.002222
+-35.256204
+-34.867631
+-37.797141
+
+Longitude
+137.999116
+134.684419
+135.857158
+136.342001
+138.473037
+138.002596
+137.859268
+138.149302
+138.59012
+139.933102
+140.225149
+140.739423
+140.711409
+140.710394
+138.537502
+138.571798
+138.744199
+139.761657
+139.084262
+138.748218
+138.783159
+138.519785
+138.829663
+138.706377
+138.519943
+138.019589
+138.611066
+139.088713
+137.794614
+138.734746
+138.898587
+138.699613
+140.76955
+
+School
+Number
+423
+424
+425
+426
+427
+430
+432
+438
+442
+444
+446
+447
+448
+449
+453
+455
+456
+457
+459
+460
+467
+469
+470
+473
+474
+475
+476
+477
+478
+479
+482
+483
+486
+
+School name
+Swan Reach Area School
+Tailem Bend Primary School
+Auburn Primary School
+Tantanoola Primary School
+Tanunda Primary School
+Tarlee Primary School
+Tea Tree Gully Primary School
+Tintinara Area School
+Truro Primary School
+Two Wells Primary School
+Ungarra Primary School
+Unley Primary School
+Upper Sturt Primary School
+Uraidla Primary School
+Victor Harbor R-7 School
+Virginia Primary School
+Waikerie Primary School
+Walkerville Primary School
+Wallaroo Primary School
+Wallaroo Mines Primary School
+Warooka Primary School
+Wasleys Primary School
+Watervale Primary School
+Allenby Gardens Primary School
+Trinity Gardens Primary School
+Westbourne Park Primary School
+Elizabeth Special School
+Balaklava Primary School
+Whyalla Town Primary School
+Memorial Oval Primary School
+Williamstown Primary School
+Wilmington Primary School
+Winkie Primary School
+
+Department for Education and Child Development – Site Location Data
+Updated November 2013
+
+Address
+1 Murray Street
+St Vincent Street
+Randall Street
+Research Road
+38-42 Craig Street
+7-9 Neale Street
+37 Wendt Terrace
+1 Burr Street
+Gawler Road
+Ashman Terrace
+222 Wattle Street
+118 Upper Sturt Road
+17 Kidney Street
+The Parkway
+Park Road
+23 Coombe Terrace
+159 Stephen Terrace
+Hughes Street
+Lipson Avenue
+47 Main Street
+Annie Terrace
+27 Main North Road
+Barham Street
+160 Portrush Road
+2 Marlborough Road
+24 Durrington Road
+Wallace Street
+3-9 Walls Street
+Bradford Street
+15 Margaret Street
+14 Fifth Street
+Winkie Road
+6
+
+Suburb
+Swan Reach
+Tailem Bend
+Auburn
+Tantanoola
+Tanunda
+Tarlee
+Tea Tree Gully
+Tintinara
+Truro
+Two Wells
+Ungarra
+Unley
+Upper Sturt
+Uraidla
+Victor Harbor
+Virginia
+Waikerie
+Walkerville
+Wallaroo
+Kadina
+Warooka
+Wasleys
+Watervale
+Allenby Gardens
+Trinity Gardens
+Westbourne Park
+Elizabeth
+Balaklava
+Whyalla
+Whyalla
+Williamstown
+Wilmington
+Winkie
+
+Postcode
+5354
+5260
+5451
+5280
+5352
+5411
+5091
+5266
+5356
+5501
+5607
+5061
+5156
+5142
+5211
+5120
+5330
+5081
+5556
+5554
+5577
+5400
+5452
+5009
+5068
+5041
+5112
+5461
+5600
+5600
+5351
+5485
+5343
+
+Latitude
+-34.571572
+-35.259104
+-34.026172
+-37.698965
+-34.526253
+-34.269925
+-34.822942
+-35.882498
+-34.4112
+-34.591316
+-34.18083
+-34.953509
+-35.018986
+-34.959029
+-35.540745
+-34.664481
+-34.181117
+-34.895194
+-33.932746
+-33.965894
+-34.990788
+-34.471428
+-33.960982
+-34.90181
+-34.907992
+-34.969224
+-34.710127
+-34.151438
+-33.035531
+-33.033445
+-34.667928
+-32.651173
+-34.290735
+
+Longitude
+139.604009
+139.457249
+138.683695
+140.454535
+138.959337
+138.772668
+138.727177
+140.060951
+139.12638
+138.516996
+136.047417
+138.61001
+138.683375
+138.743391
+138.624353
+138.555693
+139.981115
+138.613241
+137.624271
+137.69872
+137.399042
+138.680561
+138.644648
+138.554862
+138.641783
+138.591941
+138.673359
+138.416488
+137.583641
+137.568711
+138.890491
+138.101868
+140.54478
+
+School
+Number
+487
+495
+497
+501
+506
+509
+511
+519
+524
+532
+533
+536
+537
+547
+548
+559
+563
+565
+570
+571
+574
+583
+586
+592
+593
+596
+600
+605
+625
+632
+636
+637
+638
+
+School name
+Wirrabara Primary School
+Woodside Primary School
+Woodville Primary School
+Yahl Primary School
+Barmera Primary School
+Andamooka Primary School
+Basket Range Primary School
+Beachport Primary School
+Belair Primary School
+Berri Primary School
+Wynn Vale R-7 School
+Aberfoyle Hub R-7 School
+Parafield Gardens R-7 School
+Birdwood Primary School
+Black Forest Primary School
+Whyalla Special School
+Lake Wangary Primary School
+Blackwood Primary School
+Prospect North Primary School
+Blanchetown Primary School
+Para Hills High School
+Marden Senior College
+Blyth Primary School
+Nangwarry Primary School
+Padthaway Primary School
+Highbury Primary School
+Booborowie Primary School
+Millicent North Primary School
+Whyalla Stuart Campus R-7
+Keller Road Primary School
+Bridgewater Primary School
+Brighton Primary School
+Wirreanda High School
+
+Address
+East Terrace
+23 Moffett Street
+Evans Street
+10 Lange Road
+1 Rumbold Drive
+16 Cramond Road
+Golf Course Road
+45-83 Main Road
+11 Sultana Street
+17-19 Sunnybrook Drive
+29 Jeanette Crescent
+23 Shepherdson Road
+Shannon Street
+679 South Road
+Billing Street
+Third Street
+4 Seymour Street
+30 Stuart Road
+Godley Street
+90 Beafield Road
+1-37 Marden Road
+August Street
+Whitford Crescent
+Vogelsang Road
+Cnr Honeysuckle Drive & Payne St
+South Terrace
+Second Street
+Bastyan Crescent
+Keller Road
+46 Morella Grove
+1 Highet Avenue
+105 Richards Drive
+
+Department for Education and Child Development – Site Location Data
+Updated November 2013
+
+7
+
+Suburb
+Wirrabara
+Woodside
+Woodville South
+Yahl
+Barmera
+Andamooka
+Basket Range
+Beachport
+Belair
+Berri
+Wynn Vale
+Aberfoyle Park
+Parafield Gardens
+Birdwood
+Black Forest
+Whyalla Playford
+Wangary
+Eden Hills
+Prospect
+Blanchetown
+Para Hills West
+Marden
+Blyth
+Nangwarry
+Padthaway
+Hope Valley
+Booborowie
+Millicent
+Whyalla Stuart
+Salisbury East
+Bridgewater
+Brighton
+Morphett Vale
+
+Postcode
+5481
+5244
+5011
+5291
+5345
+5722
+5138
+5280
+5052
+5343
+5127
+5159
+5107
+5234
+5035
+5600
+5607
+5050
+5082
+5357
+5096
+5070
+5462
+5277
+5271
+5090
+5417
+5280
+5608
+5109
+5155
+5048
+5162
+
+Latitude
+-33.036284
+-34.952342
+-34.880569
+-37.87919
+-34.25159
+-30.44907
+-34.938262
+-37.475436
+-35.004748
+-34.279661
+-34.800674
+-35.078139
+-34.785192
+-34.821057
+-34.960471
+-33.032
+-34.550294
+-35.024715
+-34.874397
+-34.35059
+-34.799266
+-34.891197
+-33.843766
+-37.541463
+-36.593126
+-34.848154
+-33.56631
+-37.592968
+-33.026989
+-34.792341
+-35.004283
+-35.015974
+-35.127607
+
+Longitude
+138.273277
+138.879672
+138.532716
+140.831985
+140.478058
+137.167451
+138.766577
+140.009715
+138.625784
+140.594112
+138.687256
+138.595142
+138.616383
+138.960319
+138.573756
+137.557014
+135.479343
+138.607738
+138.596495
+139.610574
+138.650711
+138.634517
+138.490696
+140.818486
+140.496854
+138.710133
+138.759777
+140.343376
+137.526132
+138.656283
+138.762749
+138.526228
+138.533815
+
+School
+Number
+640
+641
+644
+646
+647
+649
+650
+651
+658
+660
+664
+665
+666
+668
+670
+677
+678
+679
+685
+688
+689
+699
+702
+704
+705
+714
+719
+720
+721
+723
+724
+729
+730
+
+School name
+Hallett Cove School
+Seaford 6-12 School
+Yunta Rural School
+Brompton Primary School
+Linden Park Primary School
+Madison Park School
+Rapid Bay Primary School
+Parndana Campus
+Forbes Primary School
+Enfield Primary School
+Salisbury North R-7 School
+Hillcrest Primary School
+Darlington Primary School
+Paringa Park Primary School
+Hendon Primary School
+Nicolson Avenue Primary School
+Loxton North Primary School
+Willsden Primary School
+Risdon Park Primary School
+Elizabeth South Primary School
+Hampstead Primary School
+Burnside Primary School
+Bute Primary School
+Cadell Primary School
+Callington Primary School
+Challa Gardens Primary School
+Clare Primary School
+Clarendon Primary School
+Cobdogla Primary School
+Colonel Light Gardens Primary School
+Compton Primary School
+Coomandook Area School
+Coonalpyn Primary School
+
+Address
+2-32 Gledsdale Road
+Lynton Terrace
+Railway Terrace
+Napier Street
+14 Hay Road
+19 Lincoln Avenue
+Essington Lewis Drive
+Wedgewood Road
+80 Thomas Street
+Clarice Avenue
+38 Bagster Road
+Condamine Street
+9-11 White Crescent
+21 Bowker Street
+Cedar Avenue
+Nicolson Avenue
+Balfour-Ogilvy Road
+Elizabeth Terrace
+Kingston Road
+Chivell Street
+38-56 Muller Road
+11 High Street
+Third Street
+414 Cadell Valley Road
+North Terrace
+Humphries Terrace
+137 Main North Road
+Potter Road
+Dolan Street
+Windsor Avenue
+13 Compton Hall Road
+
+Department for Education and Child Development – Site Location Data
+Updated November 2013
+
+4 Coombe Terrace
+8
+
+Suburb
+Hallett Cove
+Seaford
+Yunta
+Renown Park
+Linden Park
+Salisbury East
+Rapid Bay
+Parndana
+South Plympton
+Enfield
+Salisbury North
+Hillcrest
+Seacombe Gardens
+North Brighton
+Royal Park
+Whyalla Norrie
+Loxton North
+Port Augusta
+Port Pirie
+Elizabeth South
+Greenacres
+Burnside
+Bute
+Cadell
+Callington
+Kilkenny
+Clare
+Clarendon
+Cobdogla
+Colonel Light Gardens
+Suttontown
+Coomandook
+Coonalpyn
+
+Postcode
+5158
+5169
+5440
+5008
+5065
+5109
+5204
+5220
+5038
+5085
+5108
+5086
+5047
+5048
+5014
+5608
+5333
+5700
+5540
+5112
+5086
+5066
+5560
+5321
+5254
+5009
+5453
+5157
+5346
+5041
+5291
+5261
+5265
+
+Latitude
+-35.075965
+-35.187173
+-32.579123
+-34.893989
+-34.9478
+-34.783863
+-35.526676
+-35.786767
+-34.978139
+-34.865172
+-34.753263
+-34.866383
+-35.027204
+-35.002543
+-34.878622
+-33.028888
+-34.413133
+-32.506303
+-33.203247
+-34.73111
+-34.870813
+-34.935601
+-33.864926
+-34.0565056
+-35.114221
+-34.877305
+-33.840746
+-35.110275
+-34.242439
+-34.986809
+-37.801357
+-35.476023
+-35.698735
+
+Longitude
+138.511116
+138.482221
+139.562252
+138.581272
+138.646019
+138.662355
+138.193855
+137.263093
+138.557598
+138.603431
+138.635426
+138.638678
+138.546916
+138.525628
+138.510533
+137.549699
+140.624328
+137.780351
+138.008071
+138.66211
+138.625981
+138.661574
+138.003827
+139.771731
+139.038981
+138.555678
+138.618052
+138.632175
+140.406113
+138.59544
+140.728606
+139.70898
+139.852091
+
+School
+Number
+731
+732
+733
+734
+735
+736
+737
+740
+741
+742
+743
+744
+745
+746
+747
+748
+749
+750
+751
+752
+753
+754
+755
+756
+757
+758
+759
+760
+761
+762
+763
+764
+765
+
+School name
+Coorabie RS-Annexe of Penong PS
+Ardrossan Area School
+Bordertown Primary School
+Ceduna Area School
+Cowell Area School
+Kimba Area School
+Kingston Community School
+Orroroo Area School
+Port Broughton Area School
+Snowtown Primary School
+Tumby Bay Area School
+Willunga Primary School
+Streaky Bay Area School
+Woomera Area School
+Cambrai Area School
+Leigh Creek Area School
+Lucindale Area School
+Meningie Area School
+Allendale East Area School
+Brinkworth Primary School
+Cleve Area School
+Cummins Area School
+Eudunda Area School
+Karoonda Area School
+Keith Area School
+Kingscote Campus
+Lameroo Regional Community School
+Loxton Primary School
+Maitland Area School
+Oakbank Area School
+Penola Primary School
+Pinnaroo Primary School
+Wudinna Area School
+
+Address
+14 Second Street
+South Terrace
+6 May Crescent
+42 Story Street
+69 West Terrace
+46 East Terrace
+West Terrace
+12 East Terrace
+31 Glen Davidson Drive
+West Terrace
+247 Main Road
+109 Wells Street
+Dewrang Avenue
+Main Road
+Blackoak Drive
+14 Fairview Road
+1 North Terrace
+Bay Road
+Main Street
+Second Street
+McFarlane Street
+2 Reserve Road
+North Terrace
+Tolmer Terrace
+5 Centenary Avenue
+1 Bews Terrace
+Pyap Street
+Junction Road
+154 Onkaparinga Valley Road
+Riddoch Street
+Bundey Terrace
+Medley Terrace
+
+Department for Education and Child Development – Site Location Data
+Updated November 2013
+
+9
+
+Suburb
+Coorabie
+Ardrossan
+Bordertown
+Ceduna
+Cowell
+Kimba
+Kingston SE
+Orroroo
+Port Broughton
+Snowtown
+Tumby Bay
+Willunga
+Streaky Bay
+Woomera
+Cambrai
+Leigh Creek
+Lucindale
+Meningie
+Allendale East
+Brinkworth
+Cleve
+Cummins
+Eudunda
+Karoonda
+Keith
+Kingscote
+Lameroo
+Loxton
+Maitland
+Oakbank
+Penola
+Pinnaroo
+Wudinna
+
+Postcode
+5690
+5571
+5268
+5690
+5602
+5641
+5275
+5431
+5522
+5520
+5605
+5172
+5680
+5720
+5353
+5731
+5272
+5264
+5291
+5464
+5640
+5631
+5374
+5307
+5267
+5223
+5302
+5333
+5573
+5243
+5277
+5304
+5652
+
+Latitude
+-31.8270052
+-34.423756
+-36.315105
+-32.137676
+-33.682729
+-33.135605
+-36.836179
+-32.728505
+-33.604039
+-33.783548
+-34.37575
+-35.269384
+-32.798217
+-31.195174
+-34.653408
+-30.592696
+-36.964206
+-35.682635
+-38.002461
+-33.687102
+-33.699447
+-34.263297
+-34.181155
+-35.092105
+-36.099661
+-35.650387
+-35.331434
+-34.451324
+-34.368261
+-34.988726
+-37.379147
+-35.255862
+-33.044573
+
+Longitude
+132.308206
+137.91592
+140.765108
+133.671396
+136.918442
+136.419417
+139.857605
+138.612211
+137.933111
+138.221653
+136.099182
+138.552628
+134.201213
+136.826289
+139.280554
+138.401257
+140.370633
+139.342158
+140.711361
+138.404569
+136.497984
+135.722276
+139.091271
+139.894702
+140.351182
+137.633343
+140.522579
+140.567155
+137.673481
+138.837232
+140.833229
+140.907922
+135.462851
+
+School
+Number
+766
+767
+768
+769
+770
+771
+773
+774
+775
+776
+777
+778
+779
+780
+781
+783
+784
+785
+786
+787
+788
+789
+790
+791
+792
+793
+794
+795
+796
+797
+798
+799
+800
+
+School name
+Yankalilla Area School
+Yorketown Area School
+Adelaide High School
+Balaklava High School
+Birdwood High School
+Booleroo Centre District School
+Clare High School
+Gawler and District College B-12
+Gladstone High School
+Glossop High School
+Jamestown Community School
+Kadina Memorial School
+Kapunda High School
+Millicent High School
+Minlaton District School
+Mount Barker High School
+Mount Gambier High School
+Murray Bridge High School
+Naracoorte High School
+Norwood Morialta High School
+Nuriootpa High School
+Peterborough High School
+Port Augusta Secondary School
+Port Lincoln High School
+John Pirie Secondary School
+Quorn Area School
+Renmark High School
+Riverton and District High School
+Eastern Fleurieu Strath 7-12 Campus
+Unley High School
+Urrbrae Agricultural High School
+Victor Harbor High School
+Waikerie High School
+
+Department for Education and Child Development – Site Location Data
+Updated November 2013
+
+Address
+207 Main South Road
+Stansbury Road
+West Terrace
+14 Gwy Terrace
+Shannon Street
+79-81 Stephen Street
+Elliot Street
+Barnet Road
+Main North Road
+Old Sturt Highway
+Humphris Terrace
+5 Doswell Terrace
+West Terrace
+Mount Burr Road
+2 North Terrace
+2 Wellington Road
+Brownes Road
+Lohmann Street
+Stewart Terrace
+505 The Parade
+Penrice Road
+Queen Street
+3 Stirling Road
+Ruskin Road
+40 Mary Elie Street
+Stokes Road
+Thurk Street
+Oxford Terrace
+11 Callington Road
+Kitchener Street
+505 Fullarton Road
+George Main Road
+24 Blake Road
+10
+
+Suburb
+Yankalilla
+Yorketown
+Adelaide
+Balaklava
+Birdwood
+Booleroo Centre
+Clare
+Evanston
+Gladstone
+Glossop
+Jamestown
+Kadina
+Kapunda
+Millicent
+Minlaton
+Mount Barker
+Mount Gambier
+Murray Bridge
+Naracoorte
+Magill
+Nuriootpa
+Peterborough
+Port Augusta
+Port Lincoln
+Port Pirie
+Quorn
+Renmark
+Riverton
+Strathalbyn
+Netherby
+Netherby
+Victor Harbor
+Waikerie
+
+Postcode
+5203
+5576
+5000
+5461
+5234
+5482
+5453
+5116
+5473
+5344
+5491
+5554
+5373
+5280
+5575
+5251
+5290
+5253
+5271
+5072
+5355
+5422
+5700
+5606
+5540
+5433
+5341
+5412
+5255
+5062
+5062
+5211
+5330
+
+Latitude
+-35.453257
+-35.015376
+-34.925733
+-34.1503
+-34.822129
+-32.877326
+-33.822384
+-34.619476
+-33.275577
+-34.274792
+-33.204904
+-33.95764
+-34.332945
+-37.591479
+-34.765873
+-35.074991
+-37.826147
+-35.135051
+-36.948548
+-34.917934
+-34.466434
+-32.978852
+-32.493679
+-34.723847
+-33.183024
+-32.348904
+-34.172088
+-34.156173
+-35.258179
+-34.970162
+-34.966994
+-35.556148
+-34.184584
+
+Longitude
+138.333062
+137.615442
+138.586678
+138.41511
+138.957682
+138.349525
+138.596522
+138.736184
+138.35211
+140.535354
+138.609566
+137.70896
+138.910495
+140.359255
+137.593581
+138.85705
+140.765689
+139.285294
+140.726873
+138.672196
+139.000529
+138.836939
+137.768693
+135.853942
+138.010153
+138.036572
+140.741263
+138.749643
+138.903269
+138.620336
+138.621443
+138.611226
+139.973102
+
+School
+Number
+801
+803
+805
+809
+810
+814
+817
+822
+823
+825
+842
+844
+845
+846
+849
+892
+893
+894
+895
+897
+898
+899
+903
+905
+906
+907
+908
+909
+910
+911
+913
+920
+921
+
+School name
+Woodville High School
+Brighton Secondary School
+Findon High School
+Henley High School
+Thebarton Senior College
+Le Fevre High School
+Marryatville High School
+Whyalla High School
+Hamilton Secondary College
+Elizabeth North Primary School
+Cavan Education Centre
+The Grove Education Centre
+Raukkan Aboriginal School
+Point Pearce Aboriginal School
+Open Access College
+Salisbury High School
+Seaview High School
+Bordertown High School
+Loxton High School
+Elizabeth Grove Primary School
+Klemzig Primary School
+Kirton Point Primary School
+Mitcham Girls High School
+Blackwood High School
+Windsor Gardens Vocational College
+William Light R-12 School
+Ocean View P-12 College
+Willunga High School
+Fremont-Elizabeth City High School
+Lockleys North Primary School
+Seacliff Primary School
+Coober Pedy Area School
+Christies Beach Primary School
+
+Address
+11 Actil Avenue
+305 Brighton Road
+Drummond Avenue
+Cudmore Terrace
+40 Ashley Street
+90 Hart Street
+170 Kensington Road
+Broadbent Terrace
+815 Marion Road
+141 Woodford Road
+1 Jonal Drive
+39 Leslie Street West
+Taplin Street
+Parrys Avenue
+1-37 Marden Road
+14 Farley Grove
+78-124 Seacombe Road
+South Terrace
+Bookpurnong Road
+20 Haynes Street
+2 Hay Street
+Matthew Place
+Kyre Avenue
+4 Seymour Street
+McKay Avenue
+21A Errington Street
+Gedville Road
+239 Main Road
+Philip Highway
+55 Malurus Avenue
+Barwell Avenue
+Paxton Road
+46 Maturin Avenue
+
+Department for Education and Child Development – Site Location Data
+Updated November 2013
+
+11
+
+Suburb
+Woodville
+North Brighton
+Findon
+Henley Beach
+Torrensville
+Semaphore South
+Marryatville
+Whyalla
+Mitchell Park
+Elizabeth North
+Cavan
+Woodville
+Raukkan
+Point Pearce
+Marden
+Salisbury North
+Seacombe Heights
+Bordertown
+Loxton
+Elizabeth Grove
+Klemzig
+Port Lincoln
+Kingswood
+Eden Hills
+Windsor Gardens
+Plympton
+Taperoo
+Willunga
+Elizabeth
+Lockleys
+Seacliff
+Coober Pedy
+Christies Beach
+
+Postcode
+5011
+5048
+5023
+5022
+5031
+5019
+5068
+5600
+5043
+5113
+5094
+5011
+5259
+5573
+5070
+5108
+5047
+5268
+5333
+5112
+5087
+5606
+5062
+5050
+5087
+5038
+5017
+5172
+5112
+5032
+5049
+5723
+5165
+
+Latitude
+-34.872943
+-35.003619
+-34.898332
+-34.923383
+-34.917275
+-34.845622
+-34.9291
+-33.038453
+-34.99837
+-34.703178
+-34.821668
+-34.873425
+-35.508878
+-34.415187
+-34.89271
+-34.755983
+-35.030039
+-36.313741
+-34.443732
+-34.73233
+-34.877176
+-34.731891
+-34.969865
+-35.026849
+-34.860757
+-34.964442
+-34.803361
+-35.263056
+-34.723738
+-34.920591
+-35.037266
+-29.012377
+-35.138009
+
+Longitude
+138.540808
+138.519676
+138.526613
+138.500356
+138.562772
+138.484995
+138.645443
+137.58087
+138.560781
+138.673909
+138.600663
+138.544354
+139.132846
+137.501269
+138.635942
+138.640772
+138.547313
+140.767724
+140.584808
+138.669527
+138.637665
+135.868237
+138.610036
+138.605897
+138.657925
+138.547829
+138.493484
+138.555471
+138.665902
+138.537668
+138.523556
+134.751882
+138.479076
+
+School
+Number
+923
+925
+926
+927
+928
+931
+932
+933
+934
+935
+936
+938
+941
+943
+947
+948
+949
+950
+952
+953
+957
+962
+964
+965
+967
+968
+970
+971
+972
+973
+975
+976
+980
+
+School name
+Stradbroke School
+Ingle Farm East Primary School
+Heathfield High School
+Glenunga International High School
+Grant High School
+Penola High School
+Clovelly Park Primary School
+Warradale Primary School
+Fulham Gardens Primary School
+Para Hills School P-7
+Naracoorte South Primary School
+Hincks Avenue Primary School
+Seaton High School
+Elizabeth East Primary School
+Elizabeth Downs Primary School
+Elizabeth Park Primary School
+Elizabeth Vale Primary School
+Murray Bridge South Primary School
+Clapham Primary School
+Mount Gambier North Primary School
+Kangaroo Inn Area School
+Riverland Special School
+Modbury High School
+Underdale High School
+Vale Park Primary School
+Fisk Street Primary School
+Newbery Park Primary School
+East Torrens Primary School
+Hawthorndene Primary School
+Paradise Primary School
+Pasadena High School
+Craigmore High School
+Airdale Primary School
+
+Address
+73 Koonga Avenue
+18 Halidon Street
+99 Longwood Road
+99 L'Estrange Street
+Hosking Avenue
+43 Cameron Street
+1 Renown Place
+Keynes Avenue
+Mitton Avenue
+2 Frances Avenue
+Cedar Avenue
+Schulz Avenue
+Glenburnie Street
+15 Dolphin Street
+Heard Street
+15 Turner Road
+Rollison Road
+54 Joyce Street
+Barretts Road
+Heath Street
+2329 Beachport-Penola Road
+5 Loader Street
+62 Pompoota Road
+19 Garden Terrace
+40-56 Ascot Avenue
+Pattinson Close
+Bridges Street
+12 Robson Road
+Suffolk Road
+100 George Street
+Daws Road
+2 Jamieson Road
+Anzac Road
+
+Department for Education and Child Development – Site Location Data
+Updated November 2013
+
+12
+
+Suburb
+Rostrevor
+Ingle Farm
+Heathfield
+Glenunga
+Mount Gambier
+Penola
+Clovelly Park
+Warradale
+Henley Beach
+Para Hills
+Naracoorte
+Whyalla Norrie
+Seaton
+Elizabeth East
+Elizabeth Downs
+Elizabeth Park
+Elizabeth Vale
+Murray Bridge
+Clapham
+Mount Gambier
+Kangaroo Inn
+Berri
+Modbury
+Underdale
+Vale Park
+Whyalla Norrie
+Millicent
+Hectorville
+Hawthorndene
+Paradise
+Pasadena
+Blakeview
+Port Pirie
+
+Postcode
+5073
+5098
+5153
+5064
+5290
+5277
+5042
+5046
+5022
+5096
+5271
+5608
+5023
+5112
+5113
+5113
+5112
+5253
+5062
+5290
+5280
+5343
+5092
+5032
+5081
+5608
+5280
+5073
+5051
+5075
+5042
+5114
+5540
+
+Latitude
+-34.893467
+-34.833816
+-35.020536
+-34.949336
+-37.84719
+-37.373662
+-34.998429
+-35.004
+-34.912392
+-34.812448
+-36.97269
+-33.018515
+-34.886112
+-34.725069
+-34.698589
+-34.712939
+-34.745801
+-35.132254
+-34.993358
+-37.81683
+-37.337684
+-34.281701
+-34.836789
+-34.918948
+-34.885256
+-33.016958
+-37.608624
+-34.889769
+-35.020774
+-34.870802
+-34.993333
+-34.69116
+-33.200564
+
+Longitude
+138.68405
+138.651885
+138.712609
+138.635192
+140.796014
+140.843789
+138.565416
+138.537907
+138.503289
+138.652114
+140.746742
+137.544825
+138.505556
+138.677471
+138.694874
+138.684874
+138.669262
+139.282374
+138.603502
+140.775534
+140.244317
+140.604203
+138.697008
+138.544174
+138.626323
+137.533218
+140.363491
+138.666119
+138.636088
+138.68457
+138.590102
+138.701176
+137.99046
+
+School
+Number
+981
+982
+983
+984
+987
+990
+993
+994
+996
+997
+999
+1001
+1003
+1004
+1008
+1009
+1011
+1012
+1013
+1014
+1015
+1017
+1018
+1019
+1020
+1021
+1022
+1028
+1030
+1034
+1036
+1038
+1041
+
+School name
+Carlton School
+Dernancourt School R-7
+Brahma Lodge Primary School
+Seaview Downs Primary School
+Mawson Lakes School
+Augusta Park Primary School
+Marion Primary School
+Wandana Primary School
+Kidman Park Primary School
+Kensington Centre
+Yalata Anangu School
+Amata Anangu School
+Koonibba Aboriginal School
+West Beach Primary School
+Gawler East Primary School
+Oak Valley Aboriginal School
+Salisbury East High School
+Para West Adult Campus
+Christies Beach HS & Sth Voc College
+SA School for Vision Impaired
+Banksia Park Primary School
+Glenelg Primary School
+Flagstaff Hill R-7 School
+Christie Downs Primary School
+Melaleuca Park Primary School
+McDonald Park School
+Grange Primary School
+Charles Campbell College
+Edward John Eyre High School
+Ernabella Anangu School
+East Adelaide School
+South Downs Primary School
+Salisbury Primary School
+
+Department for Education and Child Development – Site Location Data
+Updated November 2013
+
+Address
+Rupert Street
+29 Parsons Road
+20 Mortess Street
+26-44 Ross Street
+Garden Terrace
+59 Power Crescent
+Malcolm Avenue
+2-12 Cowra Avenue
+1 Dean Avenue
+3 Shipsters Road
+
+Koonibba
+3 Woodhead Street
+Finch Road
+50 Smith Road
+23 Crafter Street
+Morton Road
+1B Duncan Avenue
+1-5 Cottenham Road
+Diagonal Road
+145 Black Road
+Elizabeth Road
+Boandik Terrace
+57 North Terrace
+39C Jetty Street
+3 Campbell Road
+Grundel Street
+57-59 Second Avenue
+Mavros Road
+10 Compuda Street
+13
+
+Suburb
+Port Augusta
+Dernancourt
+Brahma Lodge
+Seaview Downs
+Mawson Lakes
+Port Augusta
+Marion
+Gilles Plains
+Kidman Park
+Kensington
+Yalata
+Amata
+Koonibba
+West Beach
+Gawler East
+Oak Valley
+Salisbury East
+Davoren Park
+Christie Downs
+Park Holme
+Banksia Park
+Glenelg East
+Flagstaff Hill
+Christie Downs
+Mount Gambier
+Mount Gambier
+Grange
+Paradise
+Whyalla Norrie
+Ernabella
+St Peters
+Elizabeth Downs
+Salisbury
+
+Postcode
+5700
+5075
+5109
+5049
+5095
+5700
+5043
+5086
+5025
+5068
+5690
+872
+5690
+5024
+5118
+5690
+5109
+5113
+5164
+5043
+5091
+5045
+5159
+5164
+5290
+5290
+5022
+5075
+5608
+872
+5069
+5113
+5108
+
+Latitude
+-32.48769
+-34.861119
+-34.775528
+-35.041379
+-34.809191
+-32.494983
+-35.00386
+-34.848907
+-34.911672
+-34.921467
+-31.508309
+-26.152169
+-31.902744
+-34.937821
+-34.598085
+-29.270173
+-34.775903
+-34.686988
+-35.136982
+-34.990774
+-34.808854
+-34.984862
+-35.049771
+-35.13252
+-37.839912
+-37.825912
+-34.903696
+-34.87403
+-33.026208
+-26.266359
+-34.9048
+-34.706102
+-34.767152
+
+Longitude
+137.776631
+138.673464
+138.650326
+138.536114
+138.614357
+137.784266
+138.555218
+138.661291
+138.523797
+138.649627
+131.82595
+131.137746
+133.425975
+138.508809
+138.761294
+130.800238
+138.667185
+138.66449
+138.497694
+138.554376
+138.72609
+138.521718
+138.589633
+138.494457
+140.794491
+140.793059
+138.49717
+138.674133
+137.540961
+132.14184
+138.627596
+138.685487
+138.647255
+
+School
+Number
+1043
+1044
+1045
+1047
+1048
+1051
+1053
+1054
+1056
+1059
+1060
+1062
+1063
+1066
+1067
+1068
+1071
+1090
+1091
+1098
+1099
+1100
+1103
+1117
+1121
+1123
+1131
+1133
+1134
+1135
+1136
+1137
+1140
+
+School name
+East Marden Primary School
+Reynella South Primary School
+Para Hills West Primary School
+Modbury South Primary School
+Para Vista Primary School
+Ridgehaven Primary School
+Hallett Cove East Primary School
+Hallett Cove South Primary School
+Woodend Primary School
+Pimpala Primary School
+O'Sullivan Beach Primary School
+Swallowcliffe School P-7
+Highgate School
+Hackham East Primary School
+Huntfield Heights Primary School
+Noarlunga Downs Primary School
+Moana Primary School
+Redwood Park Primary School
+St Agnes Primary School
+Lonsdale Heights Primary School
+Paralowie School
+Surrey Downs R-7 School
+Fairview Park Primary School
+Banksia Park International HS
+Miltaburra Area School
+Karcultaby Area School
+Hackham West R-7 School
+Long Street Primary School
+East Para Primary School
+Karrendi Primary School
+Bellevue Heights Primary School
+Parafield Gardens High School
+Salisbury Park Primary School
+
+Address
+43 James Street
+119-135 Sherriffs Road
+21 Balkara Road
+Dampier Avenue
+351 Montague Road
+479 Milne Road
+Quailo Avenue
+Livonia Street
+Edward Beck Drive
+24 Vanstone Avenue
+51 Galloway Road
+cnr Oldford St & Swallowcliffe Rd
+12 Hampstead Avenue
+Collins Parade
+78 Melsetter Road
+Canterbury Crescent
+Schooner Road
+2-10 Lokan Street
+250 Smart Road
+25 Sunningdale Drive
+Whites Road
+16-24 Vine Street
+Nepondi Court
+610 Milne Road
+3493 Miltaburra Road
+50 Glynville Drive
+Eyre Avenue
+12 Caroona Avenue
+15 Bradman Road
+7-19 Vaucluse Crescent
+15 Shepherdson Road
+66 Goddard Drive
+
+Department for Education and Child Development – Site Location Data
+Updated November 2013
+
+14
+
+Suburb
+Campbelltown
+Reynella
+Para Hills West
+Hope Valley
+Para Vista
+Ridgehaven
+Hallett Cove
+Hallett Cove
+Sheidow Park
+Morphett Vale
+O'Sullivan Beach
+Davoren Park
+Highgate
+Hackham
+Huntfield Heights
+Noarlunga Downs
+Seaford
+Redwood Park
+St Agnes
+Christie Downs
+Paralowie
+Surrey Downs
+Fairview Park
+Banksia Park
+Wirrulla
+Karcultaby
+Hackham West
+Whyalla Norrie
+Para Hills
+Parafield Gardens
+Bellevue Heights
+Parafield Gardens
+Salisbury Park
+
+Postcode
+5074
+5161
+5096
+5090
+5093
+5097
+5158
+5158
+5158
+5162
+5166
+5113
+5063
+5163
+5163
+5168
+5169
+5097
+5097
+5164
+5108
+5126
+5126
+5091
+5661
+5654
+5163
+5608
+5096
+5107
+5050
+5107
+5109
+
+Latitude
+-34.881964
+-35.103462
+-34.799894
+-34.839319
+-34.830231
+-34.818559
+-35.071138
+-35.08256
+-35.079393
+-35.112846
+-35.125417
+-34.696671
+-34.962788
+-35.140202
+-35.152857
+-35.150074
+-35.192128
+-34.814868
+-34.831012
+-35.124659
+-34.753406
+-34.800032
+-34.79778
+-34.814401
+-32.375617
+-32.760531
+-35.144166
+-33.038921
+-34.81765
+-34.790544
+-35.028955
+-34.786022
+-34.759701
+
+Longitude
+138.65353
+138.524358
+138.653038
+138.69719
+138.663164
+138.710323
+138.517181
+138.503926
+138.53383
+138.530333
+138.479656
+138.662941
+138.622561
+138.53528
+138.517965
+138.496349
+138.474988
+138.700743
+138.718284
+138.501235
+138.621394
+138.711462
+138.731422
+138.726168
+134.33113
+134.966099
+138.518017
+137.533009
+138.666078
+138.618502
+138.588869
+138.618914
+138.668718
+
+School
+Number
+1142
+1154
+1158
+1162
+1163
+1166
+1170
+1174
+1177
+1183
+1184
+1188
+1194
+1195
+1196
+1201
+1203
+1205
+1206
+1207
+1209
+1210
+1213
+1217
+1226
+1228
+1246
+1273
+1277
+1285
+1364
+1372
+1375
+
+School name
+Flaxmill School P-7
+Thorndon Park Primary School
+Lincoln Gardens Primary School
+Ingle Farm Primary School
+Braeview School R-7
+Fulham North Primary School
+Mannum Community College
+Indulkana Anangu School
+Salisbury Heights Primary School
+North Ingle School
+Valley View Secondary School
+Morphett Vale East School R-7
+Salisbury Downs Primary School
+Stuart High School
+Fregon Anangu School
+Gulfview Heights Primary School
+Westport Primary School
+Woodville Gardens School B-7 Chn Ctr
+Blair Athol North School B-7 Chn Ctr
+Seaford K-7 Birth-Y7 Campus
+Middle Campus - Norwood Morialta
+Modbury West School
+Magill School
+Glencoe Central Primary School
+Craigburn Primary School
+Felixstow Community School
+West Lakes Shore School R-7
+Pennington Junior Primary School
+Port Lincoln Junior Primary School
+Torrensville Primary School
+Warriappendi School
+Kilparrin Tch & Assessment Sch & Ser
+North Haven School
+
+Department for Education and Child Development – Site Location Data
+Updated November 2013
+
+Address
+80 Flaxmill Road
+71 Stradbroke Road
+Barley Road
+2 Belalie Road
+1A Montana Drive
+Cheadle Street
+Walker Avenue
+9 Ward Street
+7 Rothwell Avenue
+240 Wright Road
+Monarch Street
+39 Paramount Road
+Bastyan Crescent
+39 Kiekebusch Road
+53 West Street
+Ridley Grove
+Marmion Avenue
+39 Jane Street
+Morialta Road West
+450-474 Wright Road
+Adelaide Street
+135 Kirrup Road
+15 Murrays Hill Road
+5-11 Briar Road
+Edwin Street
+Harrison Road
+Adelaide Place
+Hayward Avenue
+1 John Street
+1C Duncan Avenue
+Tapping Crescent
+15
+
+Suburb
+Morphett Vale
+Athelstone
+Port Lincoln
+Ingle Farm
+Happy Valley
+Henley Beach
+Mannum
+Indulkana
+Salisbury Heights
+Ingle Farm
+Para Vista
+Morphett Vale
+Salisbury Downs
+Whyalla Stuart
+Fregon
+Gulfview Heights
+Semaphore Park
+Woodville Gardens
+Blair Athol
+Port Noarlunga South
+Rostrevor
+Modbury
+Magill
+Glencoe
+Flagstaff Hill
+Felixstow
+West Lakes Shore
+Pennington
+Port Lincoln
+Torrensville
+Marleston
+Park Holme
+North Haven
+
+Postcode
+5162
+5076
+5606
+5098
+5159
+5022
+5238
+872
+5109
+5098
+5093
+5162
+5108
+5608
+872
+5096
+5019
+5012
+5084
+5167
+5073
+5092
+5072
+5291
+5159
+5070
+5020
+5013
+5606
+5031
+5033
+5043
+5018
+
+Latitude
+-35.127467
+-34.884101
+-34.742145
+-34.827631
+-35.081009
+-34.91956
+-34.912544
+-26.964511
+-34.758812
+-34.819515
+-34.83428
+-35.121869
+-34.771193
+-33.015064
+-26.771079
+-34.792078
+-34.855142
+-34.863319
+-34.853585
+-35.175541
+-34.901635
+-34.833255
+-34.913797
+-37.669641
+-35.056187
+-34.891299
+-34.863484
+-34.861655
+-34.724303
+-34.919368
+-34.942677
+-34.990774
+-34.790581
+
+Longitude
+138.519246
+138.693245
+135.847469
+138.643207
+138.554104
+138.505096
+139.303495
+133.30096
+138.678136
+138.644612
+138.656585
+138.530944
+138.622667
+137.517105
+132.028877
+138.668666
+138.491357
+138.55068
+138.598933
+138.471755
+138.676988
+138.67648
+138.676799
+140.594383
+138.615495
+138.64422
+138.481851
+138.532294
+135.857806
+138.556719
+138.570592
+138.554376
+138.497559
+
+School
+Number
+1382
+1396
+1399
+1405
+1414
+1415
+1418
+1427
+1430
+1432
+1449
+1450
+1481
+1482
+1488
+1526
+1527
+1537
+1539
+1540
+1555
+1556
+1570
+1571
+1574
+1579
+1580
+1599
+1612
+1620
+1622
+1624
+1625
+
+School name
+Fraser Park Primary School
+Flinders View Primary School
+Port Augusta Special School
+Modbury Special School
+Adelaide West Special Education Ctr
+Errington Special Education Centre
+Bowden Brompton Community School
+Riverdale Primary School
+The Heights School
+Burra Community School
+Craigmore South Primary School
+Renown Park Preschool
+Stirling North Primary School
+Munno Para Primary School
+Moonta Area School
+Pipalyatjara Anangu School
+Mimili Anangu School
+Sheidow Park Primary School
+Mount Barker South Primary School
+Ardtornish Primary School
+Alberton Preschool
+Amata Preschool
+Echunga Child Parent Centre
+Elizabeth Downs Child Parent Centre
+Swallowcliffe Preschool
+Fraser Park Child Parent Centre
+Fregon Child Parent Centre
+Modbury South Preschool
+Point Pearce Child Parent Centre
+St Agnes Preschool
+Tantanoola Preschool
+Tintinara Preschool
+Trinity Gardens Children's Centre
+
+Address
+25-27 Burdekin Avenue
+Chinnery Street
+Abernethy Avenue
+Dampier Avenue
+12-20 Moldavia Walk
+87 Anzac Highway
+85A Torrens Road
+15 de Mille Street
+Brunel Drive
+7 Bridge Terrace
+Turner Drive
+132 West Street
+Beckman Street
+Maltarra Road
+Blanche Terrace
+
+21-43 Adams Road
+33-45 Princes Road
+2 Saarinen Avenue
+14 Broad Street
+802 Echunga Road
+Heard Street
+cnr Oldford St & Swallowcliffe Rd
+25-27 Burdekin Avenue
+
+Department for Education and Child Development – Site Location Data
+Updated November 2013
+
+Dampier Avenue
+Parrys Avenue
+250 Smart Road
+Randall Street
+37 Wendt Terrace
+160 Portrush Road
+16
+
+Suburb
+Murray Bridge
+Port Augusta West
+Port Augusta
+Hope Valley
+Taperoo
+Ashford
+Brompton
+Salisbury Downs
+Modbury Heights
+Burra
+Craigmore
+Brompton
+Stirling North
+Munno Para
+Moonta
+Pipalyatjara
+Mimili
+Sheidow Park
+Mount Barker
+St Agnes
+Queenstown
+Amata
+Echunga
+Elizabeth Downs
+Davoren Park
+Murray Bridge
+Fregon
+Hope Valley
+Point Pearce
+St Agnes
+Tantanoola
+Tintinara
+Trinity Gardens
+
+Postcode
+5253
+5700
+5700
+5090
+5017
+5035
+5007
+5108
+5092
+5417
+5114
+5007
+5710
+5115
+5558
+872
+872
+5158
+5251
+5097
+5014
+872
+5153
+5113
+5113
+5253
+872
+5090
+5573
+5097
+5280
+5266
+5068
+
+Latitude
+-35.140168
+-32.472921
+-32.50664
+-34.841544
+-34.8012875
+-34.950523
+-34.895043
+-34.766448
+-34.81146
+-33.676848
+-34.709798
+-34.895533
+-32.513732
+-34.669727
+-34.07044
+-26.1662
+-27.015879
+-35.071074
+-35.080093
+-34.833595
+-34.862686
+-26.152169
+-35.097706
+-34.698977
+-34.69719
+-35.140639
+-26.771091
+-34.83988
+-34.440523
+-34.831106
+-37.698699
+-35.883076
+-34.90918
+
+Longitude
+139.281358
+137.753501
+137.779625
+138.697476
+138.494269
+138.574475
+138.580071
+138.613754
+138.682448
+138.93781
+138.706953
+138.579755
+137.837712
+138.699713
+137.591704
+129.169979
+132.714987
+138.533052
+138.859874
+138.704599
+138.512656
+131.137746
+138.79085
+138.694605
+138.664287
+139.281692
+132.028917
+138.696634
+137.50862
+138.718371
+140.454088
+140.06243
+138.640595
+
+School
+Number
+1626
+1628
+1630
+1631
+1634
+1645
+1650
+1664
+1672
+1673
+1683
+1685
+1686
+1696
+1698
+1716
+1732
+1734
+1776
+1777
+1782
+1783
+1784
+1785
+1786
+1787
+1789
+1792
+1794
+1800
+1801
+1817
+1834
+
+School name
+Virginia Preschool
+Williamstown School-Based Preschool
+Padthaway Child Parent Centre
+Redwood Park Child Parent Centre
+North Ingle Preschool
+Gordon Education Centre
+Mulga Street Primary School
+Thiele Primary School
+OAC Port Augusta School of the Air
+Aberfoyle Park High School
+Hahndorf Preschool
+Kangaroo Inn Preschool
+Adelaide Secondary School of English
+Kenmore Park Anangu School
+Mount Gambier Children's Centre
+Challa Gardens Child Parent Centre
+Elizabeth North Preschool
+Mallala Preschool
+Woodcroft Primary School
+The Pines School
+East Murray Preschool
+Flinders View Child Parent Centre
+Freeling Preschool
+One Tree Hill Preschool
+Renmark North Preschool
+Warooka Child Parent Centre
+The Pines Child Parent Centre
+Kaurna Plains School
+Mintabie Area School
+Australian Science & Mathematics Sch
+Port Lincoln Special School
+Roxby Downs Area School
+Golden Grove High School
+
+Address
+Park Road
+15 Margaret Street
+Vogelsang Road
+2-10 Lokan Street
+7 Rothwell Avenue
+18 Brownes Road
+Mulga Street
+2 Campus Drive
+59 Power Crescent
+Taylors Road East
+12 Church Street
+2329 Beachport-Penola Road
+253 Torrens Road
+Mulga Street
+Humphries Terrace
+141 Woodford Road
+28 Owen Road
+1-23 Investigator Drive
+42 Andrew Smith Drive
+1182 East Murray Area School Road
+Chinnery Street
+Coulls Street
+McGilp Road
+Warrego Street
+47 Main Street
+42 Andrew Smith Drive
+Ridley Road
+Airport Road
+Sturt Road
+Barley Road
+7 Richardson Place
+1 Adey Place
+
+Department for Education and Child Development – Site Location Data
+Updated November 2013
+
+17
+
+Suburb
+Virginia
+Williamstown
+Padthaway
+Redwood Park
+Ingle Farm
+Mount Gambier
+Mount Gambier
+Aberfoyle Park
+Port Augusta
+Aberfoyle Park
+Hahndorf
+Kangaroo Inn
+West Croydon
+Kenmore Park
+Mount Gambier
+Kilkenny
+Elizabeth North
+Mallala
+Woodcroft
+Parafield Gardens
+Mindarie
+Port Augusta West
+Freeling
+One Tree Hill
+Renmark North
+Warooka
+Parafield Gardens
+Elizabeth
+Mintabie
+Bedford Park
+Port Lincoln
+Roxby Downs
+Golden Grove
+
+Postcode
+5120
+5351
+5271
+5097
+5098
+5290
+5290
+5159
+5700
+5159
+5245
+5280
+5008
+872
+5290
+5009
+5113
+5502
+5162
+5107
+5309
+5700
+5372
+5114
+5341
+5577
+5107
+5112
+5724
+5042
+5606
+5725
+5125
+
+Latitude
+-34.665004
+-34.667801
+-36.593079
+-34.815317
+-34.818994
+-37.825123
+-37.811585
+-35.066587
+-32.494682
+-35.074007
+-35.027171
+-37.337684
+-34.886834
+-26.335118
+-37.811741
+-34.877819
+-34.703667
+-34.434403
+-35.10505
+-34.773316
+-34.815955
+-32.472765
+-34.457776
+-34.713577
+-34.126424
+-34.990339
+-34.772737
+-34.725684
+-27.315532
+-35.025081
+-34.741941
+-30.560299
+-34.792874
+
+Longitude
+138.556484
+138.890401
+140.496907
+138.701731
+138.645728
+140.768224
+140.759668
+138.594817
+137.783814
+138.594181
+138.810771
+140.244317
+138.565419
+132.456594
+140.760307
+138.554485
+138.674651
+138.510525
+138.556331
+138.607722
+140.216073
+137.754341
+138.810725
+138.766457
+140.711668
+137.398998
+138.607689
+138.66456
+133.290422
+138.573489
+135.846117
+136.897084
+138.696789
+
+School
+Number
+1844
+1847
+1848
+1851
+1854
+1855
+1858
+1859
+1876
+1878
+1879
+1881
+1882
+1884
+1886
+1888
+1889
+1890
+1900
+1901
+1902
+1903
+1904
+1906
+1907
+1908
+1581
+1582
+1583
+1584
+1585
+1586
+
+School name
+Burton Primary School
+Keithcot Farm Primary School
+Golden Grove Primary School
+Settlers Farm Campus R-7
+Blakeview Primary School
+Seaford Rise Primary School
+Greenwith Primary School
+Murputja Anangu School
+Hewett Primary School
+Murputja Child Parent Centre
+Playford Primary School
+Sturt Street Community School
+Kangaroo Island Community Education
+Eastern Fleurieu R-12 School
+Senior Campus - Norwood
+Bowden Brompton CS Torrens Road
+Cmps
+Bowden Brompton CS Southern Campus
+Bowden Brompton CS Northern Middle S
+Mark Oliphant College (B-12)
+John Hartley School (B-7)
+Roma Mitchell Secondary College
+Blair Athol North School B-7
+Woodville Gardens School B-7
+Morphett Vale Primary School
+Reynella East College
+Lake Windemere CPC-7 School
+Gerard/Winkie Preschool
+Gilles Plains Children's Centre
+Goodwood Preschool
+Hallett Cove South Preschool
+Hendon Preschool
+Indulkana Child Parent Centre
+
+Address
+49A Kensington Way
+5 Keithcot Farm Drive
+140 Bicentennial Drive
+23 Barassi Street
+Omega Drive
+Grand Boulevard
+1500 Golden Grove Road
+Lot 6 Kingfisher Drive
+216-220 Adams Road
+221-239 Sturt Street
+5 Centenary Avenue
+11 Callington Road
+505 The Parade
+85A Torrens Road
+181 Beach Road
+55 Downton Avenue
+Newton Boulevard
+199 Peachey Road
+Sports Park, Briens Road
+15 Marmion Avenue
+Ridley Grove
+Lawrence Street
+63 Malbeck Drive
+17 Uraidla Avenue
+Winkie Road
+Beatty Avenue
+140 Goodwood Road
+Livonia Street
+Cedar Avenue
+
+Department for Education and Child Development – Site Location Data
+Updated November 2013
+
+18
+
+Suburb
+Burton
+Wynn Vale
+Golden Grove
+Paralowie
+Blakeview
+Seaford Rise
+Greenwith
+Murputja Homelands
+Hewett
+Murputja Homelands
+Craigmore
+Adelaide
+Kingscote
+Strathalbyn
+Magill
+Brompton
+
+Postcode
+5110
+5127
+5125
+5108
+5114
+5169
+5125
+872
+5118
+872
+5114
+5000
+5223
+5255
+5072
+5007
+
+Latitude
+-34.741477
+-34.800122
+-34.786314
+-34.756756
+-34.687892
+-35.199247
+-34.77021
+-26.169971
+-34.575404
+-26.169974
+-34.689693
+-34.933817
+-35.6512258
+-35.258179
+-34.918267
+-34.895043
+
+Longitude
+138.597764
+138.677195
+138.70893
+138.595629
+138.699485
+138.487561
+138.720617
+130.184842
+138.751078
+130.18481
+138.713031
+138.590211
+137.633251
+138.903269
+138.67227
+138.580071
+
+Christies Beach
+Salisbury North
+Munno Para West
+Smithfield Plains
+Gepps Cross
+Blair Athol
+Woodville Gardens
+Morphett Vale
+Reynella East
+Salisbury North
+Winkie
+Hillcrest
+Goodwood
+Hallett Cove
+Royal Park
+Indulkana
+
+5165
+5108
+5115
+5114
+5094
+5084
+5012
+5162
+5161
+5108
+5343
+5086
+5034
+5158
+5014
+872
+
+-35.137356
+-34.753533
+-34.665475
+-34.6802389
+-34.843058
+-34.853585
+-34.863319
+-35.107646
+-35.090666
+-34.740607
+-34.290805
+-34.858428
+-34.951565
+-35.082601
+-34.877025
+-26.964511
+
+138.492056
+138.635553
+138.683575
+138.673647
+138.618235
+138.598933
+138.55068
+138.514521
+138.556465
+138.620474
+140.544561
+138.651763
+138.589328
+138.50398
+138.511238
+133.30096
+
+School
+Number
+1589
+1592
+1593
+1594
+1595
+1597
+1598
+1600
+1601
+1602
+1604
+1605
+1607
+1608
+1609
+1610
+1611
+1615
+1617
+1619
+1621
+1629
+1647
+1655
+1715
+1778
+1790
+1798
+1829
+1830
+1838
+1839
+1841
+
+School name
+Karoonda Preschool
+Kilkenny Preschool
+Kongorong Child Parent Centre
+Koonibba Child Parent Centre
+Lonsdale Heights Preschool
+Marree Preschool
+Modbury Child Parent Centre
+The Heights Preschool
+Moorak Child Parent Centre
+Mount Burr Child Parent Centre
+Nairne Child Parent Centre
+Nangwarry Child Parent Centre
+Oodnadatta Child Parent Centre
+Para Hills Child Parent Centre
+Para Vista Child Parent Centre
+KICE - Parndana Campus Preschool
+Raukkan Child Parent Centre
+Reynella South Preschool
+Ridgehaven Child Parent Centre
+Westport Preschool
+Wandana Child Parent Centre
+Yalata Child Parent Centre
+Allenby Gardens Child Parent Centre
+Reynella East Preschool
+Huntfield Heights CPC
+Northfield Child Parent Centre
+Pipalyatjara Anangu Preschool
+Ernabella Anangu Child Parent Centre
+Littlehampton Preschool
+Houghton Preschool
+Kenmore Park Child Parent Centre
+Wynn Vale Child Parent Centre
+Oak Valley Aboriginal School CPC
+
+Address
+North Terrace
+Jane Street
+34 School Road
+Koonibba
+25 Sunningdale Drive
+First Street
+2-18 Golden Grove Road
+Brunel Drive
+171 Yells Road
+Thomas Drive
+5 Saleyard Road
+Whitford Crescent
+Kutaya Tce
+26 Wilkinson Road
+351 Montague Road
+Wedgewood Road
+Taplin Street
+119-135 Sherriffs Road
+479 Milne Road
+53 West Street
+2-12 Cowra Avenue
+Barham Street
+63 Malbeck Drive
+78 Melsetter Road
+North Avenue
+
+16-30 Baker Street
+1376 Lower North East Road
+17-19 Sunnybrook Drive
+
+Department for Education and Child Development – Site Location Data
+Updated November 2013
+
+19
+
+Suburb
+Karoonda
+West Croydon
+Kongorong
+Koonibba
+Christie Downs
+Marree
+Modbury North
+Modbury Heights
+Moorak
+Mount Burr
+Nairne
+Nangwarry
+Oodnadatta
+Para Hills
+Para Vista
+Parndana
+Raukkan
+Reynella
+Ridgehaven
+Semaphore Park
+Gilles Plains
+Yalata
+Allenby Gardens
+Reynella East
+Huntfield Heights
+Northfield
+Pipalyatjara
+Ernabella
+Littlehampton
+Houghton
+Kenmore Park
+Wynn Vale
+Oak Valley
+
+Postcode
+5307
+5008
+5291
+5690
+5164
+5733
+5092
+5092
+5291
+5279
+5252
+5277
+5734
+5096
+5093
+5220
+5259
+5161
+5097
+5019
+5086
+5690
+5009
+5161
+5163
+5085
+872
+872
+5250
+5131
+872
+5127
+5690
+
+Latitude
+-35.092228
+-34.891098
+-37.902252
+-31.902744
+-35.124884
+-29.649173
+-34.825797
+-34.810509
+-37.864757
+-37.541435
+-35.03837
+-37.541539
+-27.54809
+-34.812141
+-34.830072
+-35.786827
+-35.508878
+-35.104138
+-34.816874
+-34.854601
+-34.849337
+-31.508231
+-34.902216
+-35.090786
+-35.154545
+-34.848938
+-26.1662
+-26.266359
+-35.049228
+-34.831013
+-26.3352
+-34.800685
+-29.270353
+
+Longitude
+139.893738
+138.553319
+140.56142
+133.425975
+138.501876
+138.061074
+138.692386
+138.683278
+140.736898
+140.458885
+138.903539
+140.818169
+135.445794
+138.651277
+138.662358
+137.263281
+139.132846
+138.524655
+138.710125
+138.490559
+138.66173
+131.855273
+138.554414
+138.555426
+138.518125
+138.620003
+129.169979
+132.14184
+138.868164
+138.758898
+132.456896
+138.687269
+130.800256
+
+School
+Number
+1856
+2601
+2604
+2608
+2610
+2612
+2614
+2621
+2622
+2624
+2625
+2627
+2629
+2630
+2633
+2635
+2636
+2638
+2639
+2640
+2642
+2645
+2651
+2653
+2654
+2655
+2656
+2667
+2668
+2670
+2672
+2673
+2675
+
+School name
+Mimili Child Parent Centre
+Angaston Kindergarten
+Brahma Lodge Kindergarten Inc
+Craigmore Kindergarten
+Dorothy Hughes Kindergarten
+Elizabeth East Kindergarten
+Elizabeth Grove Children's Centre
+Kaurna Plains Children's Centre
+Elsie Ey Kindergarten
+Gawler & Dist College B-12 Chn Ctr
+Riverview Preschool Centre
+Angle Vale Preschool
+Hamley Bridge Kindergarten
+Ingle Farm Children's Centre
+Kapunda Kindergarten
+Andrews Farm Community Preschool
+Lantana Kindergarten
+Liberman Kindergarten
+Salisbury Downs Preschool Centre
+Madison Park Kindergarten
+Manor Farm Kindergarten
+Munno Para Kindergarten
+Para Hills West Preschool
+Eudunda Community Preschool
+Parafield Gardens Children's Centre
+Paralowie Kindergarten
+Pooraka Community Kindergarten
+Salisbury Kindergarten
+Salisbury Park Kindergarten
+Salisbury Heights Preschool
+Sir Thomas Playford Kindergarten
+Smithfield Plains Kindergarten
+Tanunda Kindergarten Association
+
+Address
+
+Suburb
+
+16 Newcastle Street
+64 The Strand
+2 Carinya Street
+Rolleston Ave
+90 Hornet Crescent
+20 Haynes Street
+Ridley Road
+23 Kingfisher Drive
+Barnet Road
+44-48 Riverview Drive
+45 Fradd Road
+Recreation Park
+2 Belalie Road
+Beck Street
+Lot 31 President Avenue
+45 Lantana Drive
+41 Liberman Road
+12 Donegal Street
+29 Piccadilly Road
+32 Melville Road
+14 Karinga Crescent
+69 Kesters Road
+Morgan Road
+9 Casuarina Drive
+13 Yalumba Drive
+14 McCarthy Court
+12 Ann Street
+5 Wildwood Drive
+5-9 Stanford Road
+136 Goodman Road
+1 Bald Street
+MacDonnell Street
+
+Department for Education and Child Development – Site Location Data
+Updated November 2013
+
+20
+
+Mimili
+Angaston
+Brahma Lodge
+Craigmore
+Salisbury North
+Elizabeth East
+Elizabeth Grove
+Elizabeth
+Hewett
+Evanston
+Salisbury Downs
+Angle Vale
+Hamley Bridge
+Ingle Farm
+Kapunda
+Andrews Farm
+Parafield Gardens
+Para Hills
+Salisbury Downs
+Salisbury East
+Salisbury East
+Munno Para
+Para Hills West
+Eudunda
+Parafield Gardens
+Paralowie
+Pooraka
+Salisbury
+Salisbury Park
+Salisbury Heights
+Elizabeth South
+Smithfield Plains
+Tanunda
+
+Postcode
+872
+5353
+5109
+5114
+5108
+5112
+5112
+5112
+5118
+5116
+5108
+5117
+5401
+5098
+5373
+5114
+5107
+5096
+5108
+5109
+5109
+5115
+5096
+5374
+5107
+5108
+5095
+5108
+5109
+5109
+5112
+5114
+5352
+
+Latitude
+-27.010811
+-34.502708
+-34.777876
+-34.706201
+-34.753559
+-34.724673
+-34.734272
+-34.725684
+-34.577223
+-34.619476
+-34.767584
+-34.643884
+-34.353453
+-34.831112
+-34.339059
+-34.672113
+-34.788648
+-34.80572
+-34.776852
+-34.779275
+-34.791687
+-34.671817
+-34.804501
+-34.180855
+-34.785192
+-34.757277
+-34.82926
+-34.763161
+-34.760632
+-34.764323
+-34.733829
+-34.676123
+-34.525203
+
+Longitude
+132.722704
+139.048155
+138.65488
+138.704829
+138.631302
+138.679531
+138.668588
+138.66456
+138.7496
+138.736184
+138.614059
+138.648599
+138.68144
+138.644273
+138.912873
+138.666505
+138.606346
+138.65716
+138.624938
+138.670525
+138.658213
+138.6971
+138.644971
+139.09133
+138.616383
+138.620671
+138.621747
+138.648715
+138.670505
+138.680848
+138.658038
+138.678726
+138.960786
+
+School
+Number
+2676
+2677
+2686
+2691
+2692
+2693
+2694
+2696
+2697
+2907
+3601
+3602
+3603
+3604
+3605
+3606
+3607
+3608
+3610
+3612
+3615
+3616
+3617
+3618
+3620
+3621
+3622
+3624
+3625
+3627
+3629
+3630
+3632
+
+School name
+Two Wells Community Children's Ctr
+Valley View Kindergarten
+Minlaton District Early Learning Ctr
+Gawler East Preschool Centre
+Lyndoch Valley Family Centre
+Settlers Farm Campus Kindergarten
+Burton Park Preschool
+Adams Road Children's Centre
+Blakeview Preschool
+Robertstown Preschool
+The Hub Preschool - Taylors Road
+Aberfoyle Park Campus Preschool
+Aldinga Community Kindergarten
+Hallett Cove Preschool
+Morphett Vale East Kindergarten
+Ascot Park Kindergarten
+Noarlunga Downs Preschool
+Ballara Park Kindergarten
+Bains Road Preschool
+Brentwood Drive Kindergarten
+Chandlers Hill Kindergarten
+Christie Downs Kindergarten
+Christies North Kindergarten
+Seaford Rise Children's Centre
+Clarendon Kindergarten
+Coorara Preschool Centre
+Coromandel Valley Kindergarten
+Darlington Kindergarten
+Woodcroft Heights Children's Centre
+Yankalilla Community Children's Ctr
+Flagstaff Hill Kindergarten
+Flagstaff Oval Kindergarten
+Frieda Corpe Community Kindergarten
+
+Address
+27A Gawler Road
+Geoffrey Avenue
+1 West Terrace
+Finch Road
+8 William Street
+2 Du Villars Street
+Brookfield Avenue
+33 Adams Road
+Omega Drive
+Corey Street
+36 Taylors Road
+11 Budapest Road
+63 Butterworth Road
+15 Zwerner Drive
+1 Archer Court
+630 Marion Road
+Canterbury Crescent
+9 Ormonde Avenue
+10 Gum Court
+79 Brentwood Drive
+2 Education Road
+14 Charles Street
+27 Shepherd Road
+178 Grand Boulevard
+82 Grants Gully Road
+22 Matison Road
+9 Sean Court
+12A Kurrajong Place
+25 Investigator Drive
+208-210 Main South Road
+15 Renwick Street
+York Drive
+42 Benny Avenue
+
+Department for Education and Child Development – Site Location Data
+Updated November 2013
+
+21
+
+Suburb
+Two Wells
+Valley View
+Minlaton
+Gawler
+Lyndoch
+Paralowie
+Burton
+Craigmore
+Blakeview
+Robertstown
+Aberfoyle Park
+Aberfoyle Park
+Aldinga Beach
+Hallett Cove
+Morphett Vale
+Park Holme
+Noarlunga Downs
+Warradale
+Morphett Vale
+Huntfield Heights
+Happy Valley
+Christie Downs
+Christies Beach
+Seaford Rise
+Clarendon
+Morphett Vale
+Coromandel Valley
+Seacombe Gardens
+Woodcroft
+Yankalilla
+Flagstaff Hill
+Flagstaff Hill
+Port Noarlunga
+
+Postcode
+5501
+5093
+5575
+5118
+5351
+5108
+5110
+5114
+5114
+5381
+5159
+5159
+5173
+5158
+5162
+5043
+5168
+5046
+5162
+5163
+5159
+5164
+5165
+5169
+5157
+5162
+5051
+5047
+5162
+5203
+5159
+5159
+5167
+
+Latitude
+-34.593771
+-34.842462
+-34.769286
+-34.597384
+-34.60431
+-34.755874
+-34.741477
+-34.688119
+-34.687725
+-33.989391
+-35.073909
+-35.06446
+-35.273947
+-35.075678
+-35.120468
+-34.986281
+-35.150168
+-35.006449
+-35.114397
+-35.150572
+-35.086724
+-35.131159
+-35.131683
+-35.200073
+-35.110415
+-35.131005
+-35.049064
+-35.026403
+-35.106587
+-35.453957
+-35.047091
+-35.052648
+-35.144175
+
+Longitude
+138.51368
+138.65415
+137.592575
+138.76217
+138.885491
+138.594776
+138.597764
+138.711775
+138.700427
+139.08385
+138.58757
+138.602399
+138.452876
+138.517799
+138.531839
+138.556092
+138.49621
+138.535292
+138.542368
+138.506776
+138.584125
+138.491504
+138.482217
+138.487121
+138.632103
+138.541037
+138.622124
+138.547363
+138.556962
+138.332073
+138.581218
+138.596644
+138.471406
+
+School
+Number
+3635
+3636
+3638
+3640
+3641
+3645
+3647
+3649
+3654
+3657
+3661
+3664
+3665
+3666
+3674
+3683
+3684
+3686
+3687
+3688
+3689
+3690
+3695
+3696
+3697
+3698
+3699
+4161
+4162
+4163
+4164
+4601
+4602
+
+School name
+Goolwa Children's Centre
+Hackham East Kindergarten
+Hackham West Children's Centre
+Happy Valley Kindergarten
+Forbes Children's Centre
+Hallett Cove Karrara Kindergarten
+Madge Sexton Kindergarten
+Mary Bywaters Memorial Kindergarten
+Mitchell Park Kindergarten
+Morphett Vale Preschool Kindergarten
+Mount Compass Preschool Centre
+O'Halloran Hill Kindergarten
+O'Sullivan Beach Children's Centre
+Oaklands Estate Kindergarten
+Reynella South Kindergarten
+Seaford K-7 Campus Preschool
+Seaview Downs Kindergarten
+Trott Park Kindergarten
+Morphett Vale Primary Sch-Preschool
+Strathalbyn Kindergarten
+Woodend Children's Centre
+Moana Kindergarten
+Plympton South Kindergarten
+Victor Harbor Community Kindergarten
+Port Elliot Kindergarten
+Warradale Kindergarten
+Willunga Preschool
+Sturt Street Children's Centre
+Kilparrin Early Learning Centre
+Mawson Lakes Preschool
+Port Lincoln Children's Centre
+Agnes Goode Kindergarten Inc
+Aldgate Kindergarten Inc
+
+Address
+Brooking Street
+Arnold Drive
+9 Vintners Walk
+12B Regency Road
+80 Thomas Street
+45 Barramundi Drive
+249 Main Road
+54 Corn Street
+Lanark Avenue
+20 Venning Street
+Oval Road
+Wren Street
+51A Galloway Road
+16 Pethick Terrace
+28 Thames Drive
+39 Jane Street
+5A Hume Street
+8 Hessing Crescent
+Lawrence Street
+9 Coronation Road
+20 Bathbank Crescent
+Schooner Road
+13 Yapinga Street
+1 Oval Street
+5 Wright Street
+Cnr Cairns Ave & Wyndham St
+Station Road
+221-239 Sturt Street
+1C Duncan Avenue
+Garden Terrace
+80 St Andrews Terrace
+7 Cornish Street
+3 Fairview Road
+
+Department for Education and Child Development – Site Location Data
+Updated November 2013
+
+22
+
+Suburb
+Goolwa
+Hackham
+Hackham West
+Happy Valley
+South Plympton
+Hallett Cove
+McLaren Vale
+Reynella
+Mitchell Park
+Morphett Vale
+Mount Compass
+O'Halloran Hill
+O'Sullivan Beach
+Marion
+Reynella
+Port Noarlunga South
+Seaview Downs
+Trott Park
+Morphett Vale
+Strathalbyn
+Sheidow Park
+Seaford
+South Plympton
+Victor Harbor
+Port Elliot
+Warradale
+Willunga
+Adelaide
+Park Holme
+Mawson Lakes
+Port Lincoln
+Stepney
+Aldgate
+
+Postcode
+5214
+5163
+5163
+5159
+5038
+5158
+5171
+5161
+5043
+5162
+5210
+5158
+5166
+5043
+5161
+5167
+5049
+5158
+5162
+5255
+5158
+5169
+5038
+5211
+5212
+5046
+5172
+5000
+5043
+5095
+5606
+5069
+5154
+
+Latitude
+-35.497832
+-35.138206
+-35.145281
+-35.088255
+-34.978139
+-35.068215
+-35.21939
+-35.090203
+-35.01215
+-35.113537
+-35.349594
+-35.065802
+-35.124449
+-34.997541
+-35.099207
+-35.175841
+-35.031413
+-35.070451
+-35.107646
+-35.260713
+-35.080114
+-35.191544
+-34.969961
+-35.556983
+-35.529976
+-35.016098
+-35.270268
+-34.933817
+-35.010896
+-34.809167
+-34.733503
+-34.910867
+-35.014889
+
+Longitude
+138.782318
+138.533233
+138.519023
+138.564645
+138.557598
+138.518385
+138.541095
+138.542753
+138.564923
+138.52437
+138.618858
+138.556211
+138.48123
+138.550359
+138.527824
+138.472256
+138.535099
+138.538428
+138.514521
+138.886856
+138.53526
+138.47426
+138.561157
+138.615636
+138.678196
+138.537378
+138.551092
+138.590211
+138.518487
+138.614386
+135.868024
+138.627534
+138.734462
+
+School
+Number
+4603
+4604
+4606
+4607
+4608
+4609
+4610
+4611
+1404
+1406
+1417
+1423
+1448
+1557
+1559
+1561
+1563
+1564
+1566
+1567
+1569
+1572
+1573
+1576
+1578
+4613
+4614
+4616
+4617
+4618
+4619
+4620
+4622
+
+School name
+Athelstone Preschool
+Banksia Park Kindergarten
+Bridgewater Kindergarten Inc
+Bertram Hawker Kindergarten
+Blackwood Kindergarten
+il nido Children's Centre
+Wattle Park Kindergarten
+Clarence Gardens Kindergarten
+Lake Windemere School CPC
+Watarru Anangu Preschool
+The Briars Special ELC
+John Hartley Sch B-7 Children's Cent
+Mark Oliphant College (B-12) Chn Ctr
+Andamooka Child Parent Centre
+Beachport Preschool
+Napperby Preschool
+Campbelltown Preschool
+Cambrai Preschool
+Coober Pedy Child Parent Centre
+Cowandilla Children's Centre
+Cummins Child Parent Centre
+Elizabeth Park Child Parent Centre
+Elizabeth Vale Preschool
+Fairview Park Child Parent Centre
+Flaxmill Preschool
+Dernancourt Kindergarten
+Ashton Kindergarten
+Fairview Park Kindergarten
+Clarence Park Community Kindergarten
+Grove Kindergarten
+Torrens Valley Children's Centre
+Hackney Kindergarten
+Highbury Preschool
+
+Department for Education and Child Development – Site Location Data
+Updated November 2013
+
+Address
+338 Gorge Road
+Spring Crescent
+87 Onkaparinga Road
+7 Wooltana Avenue
+11 Brigalow Avenue
+22 Campbell Road
+2a Yeltana Avenue
+45 Dinwoodie Avenue
+17 Uraidla Avenue
+5 Briar Road
+199 Peachey Road
+Newton Boulevard
+Golf Course Road
+Oaks Road
+163A Montacute Road
+Main Road
+Paxton Road
+21 Jenkins Street
+McFarlane Street
+15 Turner Road
+Rollison Road
+Nepondi Court
+80 Flaxmill Road
+10 Vernons Drive
+181 Ridge Road
+7 Cotton Street
+5 Parker Terrace
+12 Main Street
+John Fisher Avenue
+68 Richmond Street
+46 Beckman Avenue
+23
+
+Suburb
+Athelstone
+Banksia Park
+Bridgewater
+Myrtle Bank
+Blackwood
+Paradise
+Wattle Park
+Clarence Gardens
+Salisbury North
+Pipalyatjara
+Felixstow
+Smithfield Plains
+Munno Para West
+Andamooka
+Beachport
+Napperby
+Newton
+Cambrai
+Coober Pedy
+Cowandilla
+Cummins
+Elizabeth Park
+Elizabeth Vale
+Fairview Park
+Morphett Vale
+Highbury
+Horsnell Gully
+Fairview Park
+Clarence Park
+Eastwood
+Gumeracha
+College Park
+Highbury
+
+Postcode
+5076
+5091
+5155
+5064
+5051
+5075
+5066
+5039
+5108
+872
+5070
+5114
+5115
+5722
+5280
+5540
+5074
+5353
+5723
+5033
+5631
+5113
+5112
+5126
+5162
+5089
+5141
+5126
+5034
+5063
+5233
+5069
+5089
+
+Latitude
+-34.869904
+-34.809319
+-35.008727
+-34.957621
+-35.024634
+-34.874013
+-34.925495
+-34.96986
+-34.740607
+-27.0229361
+-34.892508
+-34.6802389
+-34.665475
+-30.450885
+-37.475436
+-33.153622
+-34.887647
+-34.652367
+-29.012508
+-34.933968
+-34.263414
+-34.712953
+-34.746434
+-34.797808
+-35.127425
+-34.857114
+-34.944127
+-34.802653
+-34.961949
+-34.942974
+-34.823745
+-34.907631
+-34.848678
+
+Longitude
+138.703591
+138.727278
+138.775293
+138.635231
+138.617131
+138.672412
+138.675311
+138.580532
+138.620474
+129.902558
+138.644305
+138.673647
+138.683575
+137.167482
+140.009715
+138.113946
+138.677366
+139.281378
+134.752059
+138.560378
+135.722383
+138.684923
+138.669012
+138.73227
+138.519363
+138.692637
+138.72607
+138.71862
+138.580357
+138.621223
+138.885704
+138.616988
+138.708684
+
+School
+Number
+4623
+4625
+4626
+4627
+4629
+4630
+4631
+4632
+4634
+4635
+4637
+4638
+4639
+4640
+4641
+4643
+4645
+4649
+4650
+4661
+4663
+4664
+4665
+4667
+4668
+4670
+4672
+4675
+4676
+4678
+4680
+4682
+4683
+
+School name
+Holden Hill Kindergarten
+J B Cleland Kindergarten Inc
+Kathleen Mellor Preschool Kgtn
+Kensington Gardens Preschool
+Paradise Kindergarten
+Lobethal Community Kindergarten
+Keithcot Farm Children's Centre
+McKellar Stewart Kindergarten
+Modbury Kindergarten
+Modbury North Kindergarten
+Mount Barker Kindergarten Inc
+Mount Pleasant & District Kgtn
+Cumberland Preschool Kgtn Inc
+Eden Hills Kindergarten
+Magill Kindergarten
+Newland Park Kindergarten
+Oakbank Kindergarten
+Rose Park Preschool
+Rostrevor Kindergarten
+Stirling District Kindergarten
+Surrey Downs Kindergarten
+Hawthorndene Kindergarten
+Belair Jean Bonython Kindergarten
+Stirling East Kindergarten
+The John Francis Clark Memorial Kgtn
+Thorndon Park Kindergarten
+Vale Park Pre-school
+Willow Close Preschool Centre
+Woodside Preschool Playcentre
+Meadows & Districts Kindergarten
+Wynn Vale Community House Kgtn
+Mitcham Preschool Centre
+Mitcham Village Kindergarten
+
+Address
+80 Valiant Road
+1A Gulfview Avenue
+51 Bowen Road
+430 The Parade
+21A Lincoln Road
+1 Reserve Avenue
+5 Keithcot Farm Drive
+17A Regent Place
+32 Jaycee Street
+12 Burragah Court
+2B Dumas Street
+11 Saleyard Road
+4 Tweed Street
+4 Willunga St
+26 Edward Street
+46 Lockwood Road
+Main Street
+70A Hewitt Avenue
+61 Maple Avenue
+11 Avenue Road
+78 Illyarrie Avenue
+1 Kindergarten Avenue
+11 Arizona Terrace
+9 Snows Road
+Saarinen Avenue
+13 Nestor Street
+Cnr Ascot Ave & Tonkin St
+Willow Close
+12 Moffett Street
+49 Mawson Road
+32 Park Lake Drive
+150 Belair Road
+35 Albert Street
+
+Department for Education and Child Development – Site Location Data
+Updated November 2013
+
+24
+
+Suburb
+Holden Hill
+St Georges
+Tea Tree Gully
+Kensington Gardens
+Paradise
+Lobethal
+Wynn Vale
+Kensington
+Modbury North
+Modbury North
+Mount Barker
+Mount Pleasant
+Cumberland Park
+Eden Hills
+Magill
+Erindale
+Oakbank
+Rose Park
+Rostrevor
+Stirling
+Surrey Downs
+Hawthorndene
+Glenalta
+Stirling
+St Agnes
+Athelstone
+Vale Park
+Mount Barker
+Woodside
+Meadows
+Wynn Vale
+Hawthorn
+Mitcham
+
+Postcode
+5088
+5064
+5091
+5068
+5075
+5241
+5127
+5068
+5092
+5092
+5251
+5235
+5041
+5050
+5072
+5066
+5243
+5067
+5073
+5152
+5126
+5051
+5052
+5152
+5097
+5076
+5081
+5251
+5244
+5201
+5127
+5062
+5062
+
+Latitude
+-34.854119
+-34.949315
+-34.824979
+-34.920279
+-34.870773
+-34.906351
+-34.80063
+-34.921492
+-34.820872
+-34.824731
+-35.067298
+-34.775792
+-34.977034
+-35.02603
+-34.909413
+-34.931552
+-34.984117
+-34.928884
+-34.894883
+-35.004376
+-34.801572
+-35.020415
+-35.00833
+-35.007141
+-34.834335
+-34.885281
+-34.885537
+-35.083773
+-34.952743
+-35.180922
+-34.800995
+-34.970154
+-34.978921
+
+Longitude
+138.671428
+138.649573
+138.726082
+138.664317
+138.660497
+138.876915
+138.676921
+138.644999
+138.683618
+138.673403
+138.854752
+139.050687
+138.585113
+138.601307
+138.678209
+138.664454
+138.841187
+138.630133
+138.684961
+138.714699
+138.710446
+138.635639
+138.626868
+138.727982
+138.70503
+138.696192
+138.62555
+138.867788
+138.87732
+138.758032
+138.700407
+138.608558
+138.623066
+
+School
+Number
+4684
+4686
+4687
+4689
+4690
+4691
+4695
+4696
+5308
+5363
+5380
+5422
+5454
+5601
+5604
+5605
+5613
+5615
+5616
+5618
+5620
+5621
+5622
+5625
+5626
+5628
+5629
+5630
+5631
+5633
+5635
+5636
+5639
+
+School name
+Netherby Kindergarten
+Pasadena Kindergarten
+St James' Park Kindergarten
+The Lady George Kindergarten
+Margaret Lohmeyer Kindergarten
+Unley Kindergarten
+Golden Grove Kindergarten
+Greenwith Kindergarten
+Nuriootpa Community Children's Ctr
+CaFE Enfield Children's Centre
+Park's Children's Centre
+Port Augusta Children's Ctr
+Carlton Preschool
+Adelaide Miethke Kindergarten
+Barbara Kiker Memorial Kindergarten
+Barker Kindergarten
+Elizabeth O'Grady Kindergarten
+Fulham Park Preschool Kindergarten
+Glandore Community Kindergarten
+Torrensville Preschool Centre
+Henley Community Kindergarten
+Jean Horan Kindergarten
+Kalaya Children's Centre
+Kangaroo Island CS Kingscote
+Kurralta Park Community Kindergarten
+Largs North Kindergarten
+Le Fevre Kindergarten Inc
+Lockleys Preschool
+Lucy Morice Kindergarten
+Marie Dunstan Kindergarten
+Netley Kindergarten
+North Haven Kindergarten
+Penneshaw Kindergarten
+
+Address
+Bruce Webb Crescent
+39 Cash Grove
+19 Strathcona Avenue
+27A Highgate Street
+28 Crozier Avenue
+47 Oxford Terrace
+Cnr Bicentennial & Botany Drives
+2 Laburnum Drive
+14 Park Avenue
+17A Wilkins Street
+Trafford Street
+Rupert Street
+Rupert Street
+Cnr Oval & Cedar Avenues
+14 Sydney Avenue
+197 Tynte Street
+6 Charles Sturt Avenue
+28 Castlebar Road
+37 St Georges Avenue
+93A Ashley Street
+8 White Street
+Ross Avenue
+50 Webb Street
+50 Buller Street
+35 Barwell Avenue
+21 Kybunga Terrace
+14 Hughes Street
+21 Lipsett Terrace
+80 Sussex Street
+21 Lipsett Terrace
+Comet Avenue
+Sir Ewen Waterman Avenue
+Howard Drive
+
+Department for Education and Child Development – Site Location Data
+Updated November 2013
+
+25
+
+Suburb
+Urrbrae
+Pasadena
+Panorama
+Highgate
+Daw Park
+Unley
+Golden Grove
+Greenwith
+Nuriootpa
+Enfield
+Angle Park
+Port Augusta
+Port Augusta
+Woodville South
+Kidman Park
+North Adelaide
+Grange
+Lockleys
+Glandore
+Torrensville
+Henley Beach
+Flinders Park
+Queenstown
+Kingscote
+Marleston
+Largs North
+Birkenhead
+Brooklyn Park
+North Adelaide
+Brooklyn Park
+Netley
+North Haven
+Penneshaw
+
+Postcode
+5064
+5042
+5041
+5063
+5041
+5061
+5125
+5125
+5355
+5085
+5010
+5700
+5700
+5011
+5025
+5006
+5022
+5032
+5037
+5031
+5022
+5025
+5014
+5223
+5033
+5016
+5015
+5032
+5006
+5032
+5037
+5018
+5222
+
+Latitude
+-34.971582
+-35.003235
+-34.993323
+-34.961019
+-34.986787
+-34.950876
+-34.786838
+-34.769424
+-34.47155
+-34.865673
+-34.858364
+-32.491974
+-32.48769
+-34.884685
+-34.908924
+-34.906876
+-34.906534
+-34.921135
+-34.960365
+-34.918993
+-34.924389
+-34.90661
+-34.856228
+-35.649958
+-34.946429
+-34.816037
+-34.839009
+-34.929544
+-34.906193
+-34.929544
+-34.954274
+-34.788674
+-35.720105
+
+Longitude
+138.636598
+138.588591
+138.601486
+138.621531
+138.58921
+138.609299
+138.70819
+138.720703
+138.997679
+138.604396
+138.557299
+137.767809
+137.776631
+138.537334
+138.522255
+138.593127
+138.493056
+138.523935
+138.56431
+138.556262
+138.499087
+138.549037
+138.507271
+137.635304
+138.567311
+138.493106
+138.495298
+138.549239
+138.607026
+138.549239
+138.547046
+138.495812
+137.932522
+
+School
+Number
+5640
+5652
+5653
+5654
+5657
+5658
+5659
+5660
+5661
+5662
+5663
+5665
+5667
+5668
+5669
+5670
+5987
+6501
+6502
+6503
+6505
+6507
+6508
+6509
+6510
+6512
+6514
+6515
+6516
+6519
+6520
+6522
+6523
+
+School name
+Pennington Kindergarten
+West Beach Kindergarten
+West Lakes Kgtn & Early Chld Ctr
+West Lakes Shore Kindergarten
+Woodville West Kindergarten
+Ocean View College Children's Centre
+Enfield Folland Park Kindergarten
+Klemzig Kindergarten
+Prospect Kindergarten
+St Helen's Park Kindergarten
+St Philip's Preschool Kindergarten
+Baden Pattinson Kindergarten
+Dover Kindergarten
+Dunbar Terrace Kindergarten
+Somerton Park Kindergarten
+Seacliff Community Kindergarten
+Taikurrendi Children and Family Cent
+Acacia Kindergarten
+Balharry Memorial Kindergarten
+Barmera Kindergarten
+Berri Community Preschool
+Carol Murray Children's Centre
+Coomandook & Districts Kgtn
+Coonalpyn Kindergarten
+Akuna Kindergarten
+Geranium Kindergarten
+Gladigau Park Kindergarten
+Glencoe & District Kindergarten
+Kalangadoo Kindergarten
+Keith War Memorial Comm Ctr Kgtn
+Kingston Kindergarten
+Lameroo and District Kindergarten
+Monash Kindergarten
+
+Address
+15A Northgate Street
+13 Winston Crescent
+294 Sportsmans Drive
+Edwin Street
+22A Lawton Crescent
+Gedville Road
+31 Turnbull Road
+35-37 Hender Avenue
+352 Regency Road
+Koonga Avenue
+14 Iona Street
+Cnr Alison St & Kibby Ave
+37 Broadway
+38B Dunbar Terrace
+3 Grantham Road
+47 Kauri Parade
+8 Price Street
+21 Wimmera Street
+Centenary Avenue
+Amy Street
+1A Fiedler Street
+1 Dinning Terrace
+Coombe Terrace
+10 Ramsay Avenue
+1-3 Geranium Terrace
+3 Gladigau Road
+135 Kirrup Road
+48B Kangaroo Flat Road
+Anzac Terrace
+32 Cameron Street
+192 Bews Terrace
+Jackson Street
+
+Department for Education and Child Development – Site Location Data
+Updated November 2013
+
+26
+
+Suburb
+Pennington
+West Beach
+West Lakes
+West Lakes Shore
+Woodville West
+Taperoo
+Enfield
+Klemzig
+Prospect
+Prospect
+Broadview
+Glenelg North
+South Brighton
+Glenelg East
+Somerton Park
+Seacliff
+Christies Beach
+Mount Gambier
+Lucindale
+Barmera
+Berri
+Bordertown
+Coomandook
+Coonalpyn
+Mount Gambier
+Geranium
+Mount Gambier
+Glencoe
+Kalangadoo
+Keith
+Kingston SE
+Lameroo
+Monash
+
+Postcode
+5013
+5024
+5021
+5020
+5011
+5017
+5085
+5087
+5082
+5082
+5083
+5045
+5048
+5045
+5044
+5049
+5165
+5290
+5272
+5345
+5343
+5268
+5261
+5265
+5290
+5301
+5290
+5291
+5278
+5267
+5275
+5302
+5342
+
+Latitude
+-34.857334
+-34.937695
+-34.894098
+-34.863777
+-34.885822
+-34.807698
+-34.859041
+-34.873614
+-34.874026
+-34.89256
+-34.878996
+-34.968513
+-35.025119
+-34.978819
+-35.001779
+-35.034383
+-35.137434
+-37.812051
+-36.970892
+-34.251996
+-34.281067
+-36.310996
+-35.475892
+-35.698239
+-37.832623
+-35.379638
+-37.813365
+-37.669641
+-37.563049
+-36.098183
+-36.828231
+-35.329945
+-34.236418
+
+Longitude
+138.532263
+138.504954
+138.492429
+138.481839
+138.521321
+138.502734
+138.60482
+138.640766
+138.586853
+138.596401
+138.613625
+138.522344
+138.529534
+138.529149
+138.520893
+138.521783
+138.480271
+140.774571
+140.368646
+140.469403
+140.600482
+140.765457
+139.708504
+139.852879
+140.803774
+140.160105
+140.795285
+140.594383
+140.702222
+140.351118
+139.852885
+140.523013
+140.559311
+
+School
+Number
+6524
+6525
+6526
+6527
+6528
+6529
+6534
+6537
+6539
+6540
+6541
+6543
+6548
+6549
+6550
+6551
+6552
+6553
+6554
+6558
+6559
+6560
+6561
+6603
+6604
+6605
+6607
+6608
+6609
+6612
+6613
+6615
+6616
+
+School name
+Loxton Preschool Centre Inc
+McKay Children's Centre
+Michelle DeGaris Memorial Kgtn
+McArthur Park Kindergarten
+Millicent North Kindergarten
+Loxton North Kindergarten
+Melaleuca Park Kindergarten
+Naracoorte North Kindergarten
+Pinnaroo Kindergarten
+Kirinari Kindergarten
+Renmark Children's Centre Inc
+Robe Soldiers Memorial Kindergarten
+Waikerie Children's Centre Inc
+Murray Bridge Preschool Kindergarten
+Mannum Kindergarten
+Tinyeri Children's Centre
+Swan Reach and Area Kindergarten
+Meningie Preschool
+Tailem Bend Kindergarten
+Morgan Kindergarten
+Renmark West Preschool
+Callington Kindergarten
+Rendelsham Preschool
+Ardrossan & Districts Comm Kgtn
+Bute and District Kindergarten
+Augusta Park Childhood Servs Ctr
+Bishop Kindergarten
+Booleroo Centre & District Kgtn
+Kadina Preschool Centre
+Maitland Children's Centre
+Crystal Brook Kindergarten
+Ellendale Kindergarten
+Elliston RSL Memorial CC
+
+Address
+Anzac Crescent
+7 Scott Street
+10 Price Ave
+McRostie Street
+18 Ridge Terrace
+Balfour-Ogilvy Road
+Boandik Terrace
+39 Park Terrace
+6 Railway Terrace North
+Sewarts Road
+204 Eighteenth Street
+Victoria Street
+16 Marks Terrace
+Mannum Road
+Cnr Adelaide & Male Roads
+65 Jarvis Avenue
+Showground Road
+29 Edward Street
+49 Trevena Road
+Fourth Street
+Tarcoola Street
+North Terrace
+Nilsson Street
+1 West Terrace
+4 Third Street
+2 Bailey Street
+5 Willison Street
+1 North Road
+29 Hallett Street
+15 Kilkerran Terrace
+Mais Terrace
+First Street
+30 Memorial Drive
+
+Department for Education and Child Development – Site Location Data
+Updated November 2013
+
+27
+
+Suburb
+Loxton
+Penola
+Naracoorte
+Millicent
+Millicent
+Loxton North
+Mount Gambier
+Naracoorte
+Pinnaroo
+Allendale East
+Renmark
+Robe
+Waikerie
+Murray Bridge
+Mannum
+Murray Bridge
+Swan Reach
+Meningie
+Tailem Bend
+Morgan
+Renmark
+Callington
+Rendelsham
+Ardrossan
+Bute
+Port Augusta
+Port Lincoln
+Booleroo Centre
+Kadina
+Maitland
+Crystal Brook
+Port Pirie
+Elliston
+
+Postcode
+5333
+5277
+5271
+5280
+5280
+5333
+5290
+5271
+5304
+5291
+5341
+5276
+5330
+5253
+5238
+5253
+5354
+5264
+5260
+5320
+5341
+5254
+5280
+5571
+5560
+5700
+5606
+5482
+5554
+5573
+5523
+5540
+5670
+
+Latitude
+-34.453475
+-37.37969
+-36.960995
+-37.603203
+-37.608087
+-34.413133
+-37.843866
+-36.952015
+-35.259482
+-38.00365
+-34.172765
+-37.164819
+-34.176761
+-35.118585
+-34.913452
+-35.132254
+-34.570692
+-35.688929
+-35.252383
+-34.030985
+-34.166177
+-35.114694
+-37.551242
+-34.421705
+-33.865178
+-32.493659
+-34.716839
+-32.878266
+-33.959666
+-34.374402
+-33.352334
+-33.181862
+-33.648127
+
+Longitude
+140.57236
+140.832933
+140.749908
+140.363475
+140.362849
+140.624328
+140.795366
+140.736202
+140.90492
+140.711262
+140.743202
+139.761604
+139.985018
+139.272547
+139.302595
+139.282374
+139.598757
+139.34151
+139.456733
+139.669871
+140.710202
+139.039588
+140.225056
+137.916136
+138.003954
+137.782859
+135.845905
+138.348042
+137.711007
+137.677024
+138.213533
+138.002545
+134.889274
+
+School
+Number
+6617
+6620
+6622
+6624
+6625
+6626
+6627
+6628
+6629
+6630
+6631
+6632
+6633
+6636
+6640
+6641
+6642
+6644
+6645
+6646
+6647
+6648
+6649
+6651
+6652
+6653
+6655
+6658
+6659
+6660
+6661
+6662
+6663
+
+School name
+Flinders Children's Centre
+Gladstone Kindergarten
+Hawker Childhood Services Centre
+Jamestown Community Children's Ctr
+Moonta Kindergarten
+Kimba Community Kindergarten
+Kirton Point Children's Centre
+Whyalla Stuart Early Chlhd Ctr Kgtn
+Port Wakefield Kindergarten
+Lake Wangary Preschool Centre
+Laura Preschool Centre
+Leigh Creek Kindergarten
+Lock Early Learning Centre
+McRitchie Crescent Chn Servs Ctr
+Wallaroo Preschool Centre
+Ceduna Preschool Centre Inc
+Gabmididi Manoo Childrn & Family Ctr
+Neta Kranz Children's Centre
+Norrie Stuart Children's Servs Ctr
+Roxby Downs Kindergarten
+Yorketown Community Children's Ctr
+Orroroo Kindergarten
+Peterborough Community Preschool
+Port Augusta West CSC
+Balaklava Community Chn Ctr
+Port Broughton Kindergarten
+Cranston Street Kindergarten
+Brinkworth Preschool Centre
+Port Pirie Community Kindergarten
+Quorn Kindergarten
+Burra Early Learning Centre
+Risdon Park South Kindergarten
+Cowell Early Childhood Centre
+
+Address
+122 Tassie Street
+James Street
+67 Chase View Terrace
+Irvine Street
+Blanche Terrace
+30-32 Park Terrace
+63 Stevenson Street
+24 Ramsay Street
+Thomas Crescent
+150 Main Street
+6 Booyoolie Street
+Blackoak Drive
+West Terrace
+55 McRitchie Crescent
+11 Elizabeth Street
+2 Kelly Street
+Cnr Clutterbuck St & Hincks Ave
+55 Wood Terrace
+4 Dowd Street
+Richardson Place
+19 Waterloo Road
+West Terrace
+76-80 Victoria Street
+1A Stokes Terrace
+15 Scotland Street
+Cnr South Tce & Kadina Rd
+15 Cranston Street
+Belling Street
+5 Halliday Street
+3 Second Street
+8 Bridge Terrace
+10 Hannan Street
+42 Story Street
+
+Department for Education and Child Development – Site Location Data
+Updated November 2013
+
+28
+
+Suburb
+Port Augusta
+Gladstone
+Hawker
+Jamestown
+Moonta
+Kimba
+Port Lincoln
+Whyalla Stuart
+Port Wakefield
+Wangary
+Laura
+Leigh Creek
+Lock
+Whyalla Stuart
+Wallaroo
+Ceduna
+Whyalla Norrie
+Whyalla
+Whyalla Norrie
+Roxby Downs
+Yorketown
+Orroroo
+Peterborough
+Port Augusta West
+Balaklava
+Port Broughton
+Port Lincoln
+Brinkworth
+Port Pirie
+Quorn
+Burra
+Port Pirie
+Cowell
+
+Postcode
+5700
+5473
+5434
+5491
+5558
+5641
+5606
+5608
+5550
+5607
+5480
+5731
+5633
+5608
+5556
+5690
+5608
+5600
+5608
+5725
+5576
+5431
+5422
+5700
+5461
+5522
+5606
+5464
+5540
+5433
+5417
+5540
+5602
+
+Latitude
+-32.482907
+-33.268649
+-31.885721
+-33.208703
+-34.071329
+-33.138822
+-34.731447
+-33.027259
+-34.187364
+-34.549627
+-33.187208
+-30.593006
+-33.566136
+-33.022697
+-33.930333
+-32.138886
+-33.026448
+-33.038323
+-33.038562
+-30.56107
+-35.021263
+-32.728529
+-32.972237
+-32.48113
+-34.147754
+-33.603283
+-34.725324
+-33.687185
+-33.196203
+-32.348219
+-33.678693
+-33.20702
+-33.686763
+
+Longitude
+137.775112
+138.359475
+138.423903
+138.605041
+137.590995
+136.417408
+135.867515
+137.523718
+138.149243
+135.479167
+138.303414
+138.401735
+135.757148
+137.527249
+137.628756
+133.669533
+137.542801
+137.573962
+137.530997
+136.896683
+137.604981
+138.613402
+138.845542
+137.753235
+138.413724
+137.931338
+135.855379
+138.404018
+138.002785
+138.043127
+138.93797
+137.996226
+136.919259
+
+School
+Number
+6664
+6665
+6666
+6667
+6668
+6669
+6670
+6672
+6674
+6675
+6676
+6678
+6679
+6680
+6684
+6686
+6692
+6755
+6875
+7080
+
+School name
+Cleve District Children's Centre
+Clare Valley Children's Centre
+Solomontown Kindergarten
+Stirling North Childhd Services Ctr
+Streaky Bay Children's Centre
+Riverton Kindergarten
+Tumby Bay Kindergarten
+Saddleworth Early Learning Centre
+Willsden Childhood Services Centre
+Wilmington Kindergarten
+Win Newby Kindergarten
+Miltaburra Children's Centre
+Woomera Child Parent Centre
+Wudinna RSL Memorial Kindergarten
+Snowtown Kindergarten
+Poonindie Early Childhood Centre
+Minya Bunhii Child Care & Kgtn
+Karcultaby Preschool
+Hampstead Preschool
+Auslan Early Learning Program
+
+Address
+
+Suburb
+
+East Terrace
+Inchiquin Road
+1 Prince Street
+Quorn Road
+Montgomerie Terrace
+5 Gilbert Street
+West Terrace
+7 Saddle Road
+41 View Street
+30 Main North Road
+Ring Street
+3493 Miltaburra Road
+Dewrang Avenue
+Oswald Street
+19 Glen Davidson Drive
+Hirschausen Road
+1 Kelly Street
+
+Cleve
+Clare
+Port Pirie
+Stirling North
+Streaky Bay
+Riverton
+Tumby Bay
+Saddleworth
+Port Augusta
+Wilmington
+Whyalla Norrie
+Wirrulla
+Woomera
+Wudinna
+Snowtown
+Poonindie
+Ceduna
+Karcultaby
+Greenacres
+Klemzig
+
+Department for Education and Child Development – Site Location Data
+Updated November 2013
+
+38-56 Muller Road
+2 Hay Street
+
+29
+
+Postcode
+5640
+5453
+5540
+5710
+5680
+5412
+5605
+5413
+5700
+5485
+5608
+5661
+5720
+5652
+5520
+5607
+5690
+5654
+5086
+5087
+
+Latitude
+-33.699285
+-33.838952
+-33.188269
+-32.517335
+-32.797928
+-34.158512
+-34.371543
+-34.088257
+-32.508361
+-32.650636
+-33.033601
+-32.375617
+-31.195174
+-33.043444
+-33.783758
+-34.580807
+-32.139206
+-32.760961
+-34.870813
+-34.877176
+
+Longitude
+136.494513
+138.616299
+138.018776
+137.839045
+134.213392
+138.746487
+136.100516
+138.786444
+137.781485
+138.099098
+137.545788
+134.33113
+136.826289
+135.462099
+138.220017
+135.881095
+133.669233
+134.966643
+138.625981
+138.637665
+
+
