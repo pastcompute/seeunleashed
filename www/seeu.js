@@ -46,12 +46,12 @@ function initmap() {
 	var smAttrib = 'Map data © <a href="http://openstreetmap.org">OpenStreetMap</a> contributors';
 	var streetMapLayer = new L.TileLayer( smUrl, {minZoom: 6, maxZoom: 13, attribution: smAttrib});
 
-	// Lets center on Adelaide :-)
-	map.setView(new L.LatLng(myPyLat,myPyLon),10);
+	map.setView(new L.LatLng(myPyLat,myPyLon),13);
 	map.addLayer(streetMapLayer);
 
-	L.marker([myPyLat,myPyLon]).addTo(map).bindPopup("<b>" + myPySchoolName + "</b>").openPopup();
-	L.marker([myPyLat2,myPyLon2]).addTo(map).bindPopup("<b>" + myPySchoolName2 + "</b>").openPopup();
+  var stext = "<b>" + myPySchoolName + "</b>";
+	L.marker([rlat,rlon]).addTo(map).bindPopup("<b>Your nearest recycling Center</b>").openPopup();
+	L.marker([myPyLat,myPyLon]).addTo(map).bindPopup(stext).openPopup();
 
 //	L.circle([-34.922,138.612], 500, {
 //		color: 'red',

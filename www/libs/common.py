@@ -73,3 +73,10 @@ def dbGetSchoolLonFromSchool(schoolId):
   cur.execute("select lon from schools where id='%s'" % schoolId)
   return cur.fetchone()
 
+def dbGetClosestRecyclerToSchool(schoolId):
+  conn = psycopg2.connect(database="seeudb", user="seeu", password="seeme", host="localhost")
+  cur = conn.cursor()
+  # I would never ever code this ugly at work! Would not have done here if not runout of time either
+  cur.execute("select st_x(a) as lon, st_y(a) as lat, b/1000 from ( select st_astext(schools.geom) as s, st_astext(st_closestpoint(recyclers.geom,schools.geom)) as a, st_distance(geography(schools.geom),geography(recyclers.geom)) as b from recyclers, schools where schools.id='%s' order by b asc limit 1) X" % schoolId)
+  return cur.fetchone()
+

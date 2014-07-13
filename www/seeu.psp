@@ -24,8 +24,11 @@ if form.has_key('school-id'):
   schoolData = dbGetSchoolFromId(xid)
 %>
 var sname = "<%= schoolData[1]%>";
-// This is fake data, because we ran out of time.
-var scentre = "Anglicare North Adelaide accepts textiles and furniture";
+var rlat = <%= dbGetClosestRecyclerToSchool(xid)[1]%>
+var rlon = <%= dbGetClosestRecyclerToSchool(xid)[0]%>
+var rd = <%= "%.2f" % float(dbGetClosestRecyclerToSchool(xid)[2])%>
+
+var scentre = "" + rd + " kilometers!";
 var myPySchoolName = "<font color='blue'>" + sname + "</font><br/>Nearest recycle center:<br/><font color='green'>" + scentre + "</font>";
 var myPyLat = <%= dbGetSchoolLatFromSchool(xid)[0]%>;
 var myPyLon = <%= dbGetSchoolLonFromSchool(xid)[0]%>;
