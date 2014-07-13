@@ -22,7 +22,7 @@ YUI().use('node', 'autocomplete', 'autocomplete-highlighters', 'autocomplete-fil
     resultHighlighter: 'phraseMatch',
     resultTextLocator: 'name',
     resultTypeList   : false,
-    source           : 'http://localhost/seeu/ws_schools_json.psp?q={query}',
+    source           : '/seeu/ws_schools_json.psp?q={query}',
     on : {
       select : function(e) {  
         // Put the id in hidden form variable before submitting
